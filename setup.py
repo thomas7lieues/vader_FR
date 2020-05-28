@@ -3,7 +3,8 @@ from distutils.core import setup
 setup(
   name = 'vaderSentiment_fr',         # How you named your package folder (MyLib)
   packages = ['vaderSentiment_fr'],   # Chose the same as "name"
-  version = '0.8',      # Start with a small number and increase it with every change you make
+  include_package_data=True,
+  version = '0.9',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'French version of VADER',   # Give a short description about your library
   author = 'DEPREZ Olivier, EK Thomas',                   # Type in your name
@@ -25,5 +26,4 @@ setup(
     'Programming Language :: Python :: 3.5',
     'Programming Language :: Python :: 3.6',
   ],
-  include_package_data=True
 )
