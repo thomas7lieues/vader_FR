@@ -1,0 +1,3304 @@
+😀	grand sourire
+😃	sourire heureux
+😄	sourire mignon
+😁	sourire de toutes ses dents
+😆	visage souriant avec bouche ouverte et yeux fermes
+😅	sourire nerveux
+🤣	se rouler par terre de rire
+😂	rire aux larmes
+🙂	leger sourire
+🙃	tete a lenvers
+😉	visage faisant un clin doeil
+😊	visage souriant avec yeux souriants
+😇	aureole
+🥰	visage souriant avec trois coeurs
+😍	visage souriant avec yeux en forme de coeur
+🤩	visage en admiration devant les stars
+😘	bisou et coeur
+😗	petit bisou
+☺️	smiley emoji
+😚	bisou les yeux fermes
+😙	gros bisou
+🥲	visage souriant avec une larme
+😋	miam
+😛	visage qui tire la langue
+😜	visage qui tire la langue et fait un clin doeil
+🤪	visage fou
+😝	visage qui tire la langue et ferme les yeux
+🤑	argent dans les yeux et la bouche
+🤗	visage qui fait un calin
+🤭	visage avec main sur la bouche
+🤫	visage chut
+🤔	visage en pleine reflexion
+🤐	visage avec bouche cousue
+🤨	visage avec un sourcil releve
+😐	sans commentaires
+😑	visage sans expression
+😶	pas de bouche
+😏	sourire malin
+😒	visage blase
+🙄	rouler des yeux
+😬	visage grimacant
+🤥	menteur
+😌	visage soulage
+😔	visage pensif
+😪	visage endormi
+🤤	baver
+😴	visage somnolent
+😷	visage avec masque
+🤒	visage avec thermometre
+🤕	bandage de tete
+🤢	ecoeure
+🤮	visage qui vomit
+🤧	eternuement
+🥵	visage en sueur chaud
+🥶	visage froid
+🥴	visage abasourdi
+😵	visage avec le tournis
+🤯	visage avec tete qui explose
+🤠	cowboy
+🥳	visage qui fait la fete
+🥸	visage deguise
+😎	cool
+🤓	visage de geek
+🧐	visage avec monocle
+😕	visage confus
+😟	visage inquiet
+🙁	visage legerement mecontent
+☹️	visage mecontent
+😮	epate
+😯	visage sans voix
+😲	visage stupefait
+😳	visage qui rougit
+🥺	visage suppliant
+😦	visage decu avec bouche ouverte
+😧	visage angoisse
+😨	visage effraye
+😰	visage en sueur bouche ouverte
+😥	ouf
+😢	larme
+😭	visage qui pleure a chaudes larmes
+😱	visage qui hurle de peur
+😖	visage deconcerte
+😣	visage perseverant
+😞	visage decu
+😓	visage et sueur froide
+😩	visage epuise
+😫	visage fatigue
+🥱	visage baillant
+😤	visage avec fumee sortant des narines
+😡	visage enerve
+😠	en colere
+🤬	visage gros mots visage en hurlant des jurons
+😈	visage souriant avec des cornes
+👿	diablotin mauvais
+💀	crane
+☠️	tete de mort
+💩	tas de crotte
+🤡	clown
+👹	ogre japonais
+👺	monstre japonais
+👻	fantome
+👽	alien
+👾	monstre de lespace
+🤖	visage de robot
+😺	chat qui sourit
+😸	chat grand sourire
+😹	chat qui rit
+😻	chat amoureux
+😼	chat ironique
+😽	chat qui embrasse
+🙀	chat inquiet
+😿	chat qui pleure
+😾	chat en colere
+🙈	singe aveugle
+🙉	singe sourd
+🙊	singe muet
+💋	trace de rouge a levres
+💌	lettre damour
+💘	coeur et fleche
+💝	coeur avec ruban
+💖	coeur etincelant
+💗	coeur grandissant
+💓	coeur battant
+💞	deux coeurs
+💕	petits coeurs
+💟	coeur decore
+❣️	coeur point d exclamation
+💔	coeur brise
+❤️	coeur rouge
+🧡	coeur orange
+💛	coeur jaune
+💚	coeur vert
+💙	coeur bleu
+💜	coeur violet
+🤎	coeur marron
+🖤	coeur noir
+🤍	coeur blanc
+💯	cent points
+💢	symbole de colere
+💥	explosion
+💫	voir des etoiles
+💦	gouttes de sueur
+💨	decamper
+🕳️	trou
+💣	bombe
+💬	bulle de parole
+👁️‍🗨️	oeil dans une bulle de bd
+🗨️	bulle gauche
+🗯️	bulle colere droite
+💭	bulle de pensee
+💤	endormi
+👋	signe de la main
+👋🏻	signe de la main peau 1
+👋🏼	signe de la main peau 2
+👋🏽	signe de la main peau 3
+👋🏾	signe de la main peau 4
+👋🏿	signe de la main peau 5
+🤚	dos de main levee
+🤚🏻	dos de main levee peau 1
+🤚🏼	dos de main levee peau 2
+🤚🏽	dos de main levee peau 3
+🤚🏾	dos de main levee peau 4
+🤚🏿	dos de main levee peau 5
+🖐️	main levee doigts ecartes
+🖐🏻	main levee doigts ecartes peau 1
+🖐🏼	main levee doigts ecartes peau 2
+🖐🏽	main levee doigts ecartes peau 3
+🖐🏾	main levee doigts ecartes peau 4
+🖐🏿	main levee doigts ecartes peau 5
+✋	main levee
+✋🏻	main levee peau 1
+✋🏼	main levee peau 2
+✋🏽	main levee peau 3
+✋🏾	main levee peau 4
+✋🏿	main levee peau 5
+🖖	salut vulcain
+🖖🏻	salut vulcain peau 1
+🖖🏼	salut vulcain peau 2
+🖖🏽	salut vulcain peau 3
+🖖🏾	salut vulcain peau 4
+🖖🏿	salut vulcain peau 5
+👌	ok
+👌🏻	ok peau 1
+👌🏼	ok peau 2
+👌🏽	ok peau 3
+👌🏾	ok peau 4
+👌🏿	ok peau 5
+🤌	bout des doigts joints
+🤌🏻	bout des doigts joints%e2%80%af peau claire
+🤌🏼	bout des doigts joints%e2%80%af peau moyennement claire
+🤌🏽	bout des doigts joints%e2%80%af peau legerement mate
+🤌🏾	bout des doigts joints%e2%80%af peau mate
+🤌🏿	bout des doigts joints%e2%80%af peau foncee
+🤏	pouce et index rapproches
+🤏🏻	pouce et index rapproches%e2%80%af peau claire
+🤏🏼	pouce et index rapproches%e2%80%af peau moyennement claire
+🤏🏽	pouce et index rapproches%e2%80%af peau legerement mate
+🤏🏾	pouce et index rapproches%e2%80%af peau mate
+🤏🏿	pouce et index rapproches%e2%80%af peau foncee
+✌️	v de la victoire
+✌🏻	v de la victoire peau 1
+✌🏼	v de la victoire peau 2
+✌🏽	v de la victoire peau 3
+✌🏾	v de la victoire peau 4
+✌🏿	v de la victoire peau 5
+🤞	doigts croises
+🤞🏻	doigts croises peau 1
+🤞🏼	doigts croises peau 2
+🤞🏽	doigts croises peau 3
+🤞🏾	doigts croises peau 4
+🤞🏿	doigts croises peau 5
+🤟	je taime en langage des signes
+🤟🏻	je taime en langage des signes peau 1
+🤟🏼	je taime en langage des signes peau 2
+🤟🏽	je taime en langage des signes peau 3
+🤟🏾	je taime en langage des signes peau 4
+🤟🏿	je taime en langage des signes peau 5
+🤘	cornes avec les doigts
+🤘🏻	cornes avec les doigts peau 1
+🤘🏼	cornes avec les doigts peau 2
+🤘🏽	cornes avec les doigts peau 3
+🤘🏾	cornes avec les doigts peau 4
+🤘🏿	cornes avec les doigts peau 5
+🤙	appel
+🤙🏻	appel peau 1
+🤙🏼	appel peau 2
+🤙🏽	appel peau 3
+🤙🏾	appel peau 4
+🤙🏿	appel peau 5
+👈	index a gauche
+👈🏻	index a gauche peau 1
+👈🏼	index a gauche peau 2
+👈🏽	index a gauche peau 3
+👈🏾	index a gauche peau 4
+👈🏿	index a gauche peau 5
+👉	index a droite
+👉🏻	index a droite peau 1
+👉🏼	index a droite peau 2
+👉🏽	index a droite peau 3
+👉🏾	index a droite peau 4
+👉🏿	index a droite peau 5
+👆	main vers le haut
+👆🏻	main vers le haut peau 1
+👆🏼	main vers le haut peau 2
+👆🏽	main vers le haut peau 3
+👆🏾	main vers le haut peau 4
+👆🏿	main vers le haut peau 5
+🖕	doigt dhonneur
+🖕🏻	doigt dhonneur peau 1
+🖕🏼	doigt dhonneur peau 2
+🖕🏽	doigt dhonneur peau 3
+🖕🏾	doigt dhonneur peau 4
+🖕🏿	doigt dhonneur peau 5
+👇	index en bas
+👇🏻	index en bas peau 1
+👇🏼	index en bas peau 2
+👇🏽	index en bas peau 3
+👇🏾	index en bas peau 4
+👇🏿	index en bas peau 5
+☝️	doigt vers le haut
+☝🏻	doigt vers le haut peau 1
+☝🏼	doigt vers le haut peau 2
+☝🏽	doigt vers le haut peau 3
+☝🏾	doigt vers le haut peau 4
+☝🏿	doigt vers le haut peau 5
+👍	pouce leve
+👍🏻	pouce leve peau 1
+👍🏼	pouce leve peau 2
+👍🏽	pouce leve peau 3
+👍🏾	pouce leve peau 4
+👍🏿	pouce leve peau 5
+👎	pouce baisse
+👎🏻	pouce baisse peau 1
+👎🏼	pouce baisse peau 2
+👎🏽	pouce baisse peau 3
+👎🏾	pouce baisse peau 4
+👎🏿	pouce baisse peau 5
+✊	poing leve
+✊🏻	poing leve peau 1
+✊🏼	poing leve peau 2
+✊🏽	poing leve peau 3
+✊🏾	poing leve peau 4
+✊🏿	poing leve peau 5
+👊	coup de poing
+👊🏻	coup de poing peau 1
+👊🏼	coup de poing peau 2
+👊🏽	coup de poing peau 3
+👊🏾	coup de poing peau 4
+👊🏿	coup de poing peau 5
+🤛	poing a gauche
+🤛🏻	poing a gauche peau 1
+🤛🏼	poing a gauche peau 2
+🤛🏽	poing a gauche peau 3
+🤛🏾	poing a gauche peau 4
+🤛🏿	poing a gauche peau 5
+🤜	poing a droite
+🤜🏻	poing a droite peau 1
+🤜🏼	poing a droite peau 2
+🤜🏽	poing a droite peau 3
+🤜🏾	poing a droite peau 4
+🤜🏿	poing a droite peau 5
+👏	applaudissements
+👏🏻	applaudissements peau 1
+👏🏼	applaudissements peau 2
+👏🏽	applaudissements peau 3
+👏🏾	applaudissements peau 4
+👏🏿	applaudissements peau 5
+🙌	hourra
+🙌🏻	hourra peau 1
+🙌🏼	hourra peau 2
+🙌🏽	hourra peau 3
+🙌🏾	hourra peau 4
+🙌🏿	hourra peau 5
+👐	mains ouvertes
+👐🏻	mains ouvertes peau 1
+👐🏼	mains ouvertes peau 2
+👐🏽	mains ouvertes peau 3
+👐🏾	mains ouvertes peau 4
+👐🏿	mains ouvertes peau 5
+🤲	paumes vers le haut
+🤲🏻	paumes vers le haut peau 1
+🤲🏼	paumes vers le haut peau 2
+🤲🏽	paumes vers le haut peau 3
+🤲🏾	paumes vers le haut peau 4
+🤲🏿	paumes vers le haut peau 5
+🤝	poignee de main
+🙏	mains en priere
+🙏🏻	mains en priere peau 1
+🙏🏼	mains en priere peau 2
+🙏🏽	mains en priere peau 3
+🙏🏾	mains en priere peau 4
+🙏🏿	mains en priere peau 5
+✍️	main qui ecrit
+✍🏻	main qui ecrit peau 1
+✍🏼	main qui ecrit peau 2
+✍🏽	main qui ecrit peau 3
+✍🏾	main qui ecrit peau 4
+✍🏿	main qui ecrit peau 5
+💅	vernis a ongles
+💅🏻	vernis a ongles peau 1
+💅🏼	vernis a ongles peau 2
+💅🏽	vernis a ongles peau 3
+💅🏾	vernis a ongles peau 4
+💅🏿	vernis a ongles peau 5
+🤳	selfie
+🤳🏻	selfie peau 1
+🤳🏼	selfie peau 2
+🤳🏽	selfie peau 3
+🤳🏾	selfie peau 4
+🤳🏿	selfie peau 5
+💪	biceps contractes
+💪🏻	biceps contractes peau 1
+💪🏼	biceps contractes peau 2
+💪🏽	biceps contractes peau 3
+💪🏾	biceps contractes peau 4
+💪🏿	biceps contractes peau 5
+🦾	bras mecanique
+🦿	jambe mecanique
+🦵	jambe
+🦵🏻	jambe peau 1
+🦵🏼	jambe peau 2
+🦵🏽	jambe peau 3
+🦵🏾	jambe peau 4
+🦵🏿	jambe peau 5
+🦶	pied
+🦶🏻	pied peau 1
+🦶🏼	pied peau 2
+🦶🏽	pied peau 3
+🦶🏾	pied peau 4
+🦶🏿	pied peau 5
+👂	oreille
+👂🏻	oreille peau 1
+👂🏼	oreille peau 2
+👂🏽	oreille peau 3
+👂🏾	oreille peau 4
+👂🏿	oreille peau 5
+🦻	oreille appareillee
+🦻🏻	oreille appareillee%e2%80%af peau claire
+🦻🏼	oreille appareillee%e2%80%af peau moyennement claire
+🦻🏽	oreille appareillee%e2%80%af peau legerement mate
+🦻🏾	oreille appareillee%e2%80%af peau mate
+🦻🏿	oreille appareillee%e2%80%af peau foncee
+👃	nez
+👃🏻	nez peau 1
+👃🏼	nez peau 2
+👃🏽	nez peau 3
+👃🏾	nez peau 4
+👃🏿	nez peau 5
+🧠	cerveau
+🫀	coeur
+🫁	poumons
+🦷	dent
+🦴	os 2
+👀	yeux
+👁️	oeil
+👅	langue
+👄	bouche
+👶	bebe
+👶🏻	bebe peau 1
+👶🏼	bebe peau 2
+👶🏽	bebe peau 3
+👶🏾	bebe peau 4
+👶🏿	bebe peau 5
+🧒	enfant
+🧒🏻	enfant peau 1
+🧒🏼	enfant peau 2
+🧒🏽	enfant peau 3
+🧒🏾	enfant peau 4
+🧒🏿	enfant peau 5
+👦	garcon
+👦🏻	garcon peau 1
+👦🏼	garcon peau 2
+👦🏽	garcon peau 3
+👦🏾	garcon peau 4
+👦🏿	garcon peau 5
+👧	fille
+👧🏻	fille peau 1
+👧🏼	fille peau 2
+👧🏽	fille peau 3
+👧🏾	fille peau 4
+👧🏿	fille peau 5
+🧑	adulte
+🧑🏻	adulte peau 1
+🧑🏼	adulte peau 2
+🧑🏽	adulte peau 3
+🧑🏾	adulte peau 4
+🧑🏿	adulte peau 5
+👱	personne blonde
+👱🏻	personne blonde peau 1
+👱🏼	personne blonde peau 2
+👱🏽	personne blonde peau 3
+👱🏾	personne blonde peau 4
+👱🏿	personne blonde peau 5
+👨	homme
+👨🏻	homme peau 1
+👨🏼	homme peau 2
+👨🏽	homme peau 3
+👨🏾	homme peau 4
+👨🏿	homme peau 5
+🧔	homme a barbe
+🧔🏻	homme a barbe peau 1
+🧔🏼	homme a barbe peau 2
+🧔🏽	homme a barbe peau 3
+🧔🏾	homme a barbe peau 4
+🧔🏿	homme a barbe peau 5
+👨‍🦰	homme avec les cheveux roux
+👨🏻‍🦰	homme avec les cheveux roux peau 1
+👨🏼‍🦰	homme avec les cheveux roux peau 2
+👨🏽‍🦰	homme avec les cheveux roux peau 3
+👨🏾‍🦰	homme avec les cheveux roux peau 4
+👨🏿‍🦰	homme avec les cheveux roux peau 5
+👨‍🦱	homme avec les cheveux boucles
+👨🏻‍🦱	homme avec les cheveux boucles peau 1
+👨🏼‍🦱	homme avec les cheveux boucles peau 2
+👨🏽‍🦱	homme avec les cheveux boucles peau 3
+👨🏾‍🦱	homme avec les cheveux boucles peau 4
+👨🏿‍🦱	homme avec les cheveux boucles peau 5
+👨‍🦳	homme aux cheveux blancs
+👨🏻‍🦳	homme aux cheveux blancs peau 1
+👨🏼‍🦳	homme aux cheveux blancs peau 2
+👨🏽‍🦳	homme aux cheveux blancs peau 3
+👨🏾‍🦳	homme aux cheveux blancs peau 4
+👨🏿‍🦳	homme aux cheveux blancs peau 5
+👨‍🦲	homme avec une tete chauve
+👨🏻‍🦲	homme avec une tete chauve peau 1
+👨🏼‍🦲	homme avec une tete chauve peau 2
+👨🏽‍🦲	homme avec une tete chauve peau 3
+👨🏾‍🦲	homme avec une tete chauve peau 4
+👨🏿‍🦲	homme avec une tete chauve peau 5
+👩	femme
+👩🏻	femme peau 1
+👩🏼	femme peau 2
+👩🏽	femme peau 3
+👩🏾	femme peau 4
+👩🏿	femme peau 5
+👩‍🦰	femme avec les cheveux roux
+👩🏻‍🦰	femme avec les cheveux roux peau 1
+👩🏼‍🦰	femme avec les cheveux roux peau 2
+👩🏽‍🦰	femme avec les cheveux roux peau 3
+👩🏾‍🦰	femme avec les cheveux roux peau 4
+👩🏿‍🦰	femme avec les cheveux roux peau 5
+🧑‍🦰	adulte%e2%80%af cheveux roux
+🧑🏻‍🦰	adulte%e2%80%af peau claire et cheveux roux
+🧑🏼‍🦰	adulte%e2%80%af peau moyennement claire et cheveux roux
+🧑🏽‍🦰	adulte%e2%80%af peau legerement mate et cheveux roux
+🧑🏾‍🦰	adulte%e2%80%af peau mate et cheveux roux
+🧑🏿‍🦰	adulte%e2%80%af peau foncee et cheveux roux
+👩‍🦱	femme avec les cheveux boucles
+👩🏻‍🦱	femme avec les cheveux boucles peau 1
+👩🏼‍🦱	femme avec les cheveux boucles peau 2
+👩🏽‍🦱	femme avec les cheveux boucles peau 3
+👩🏾‍🦱	femme avec les cheveux boucles peau 4
+👩🏿‍🦱	femme avec les cheveux boucles peau 5
+🧑‍🦱	adulte%e2%80%af cheveux boucles
+🧑🏻‍🦱	adulte%e2%80%af peau claire et cheveux boucles
+🧑🏼‍🦱	adulte%e2%80%af peau moyennement claire et cheveux boucles
+🧑🏽‍🦱	adulte%e2%80%af peau legerement mate et cheveux boucles
+🧑🏾‍🦱	adulte%e2%80%af peau mate et cheveux boucles
+🧑🏿‍🦱	adulte%e2%80%af peau foncee et cheveux boucles
+👩‍🦳	femme aux cheveux blancs
+👩🏻‍🦳	femme aux cheveux blancs peau 1
+👩🏼‍🦳	femme aux cheveux blancs peau 2
+👩🏽‍🦳	femme aux cheveux blancs peau 3
+👩🏾‍🦳	femme aux cheveux blancs peau 4
+👩🏿‍🦳	femme aux cheveux blancs peau 5
+🧑‍🦳	adulte%e2%80%af cheveux blancs
+🧑🏻‍🦳	adulte%e2%80%af peau claire et cheveux blancs
+🧑🏼‍🦳	adulte%e2%80%af peau moyennement claire et cheveux blancs
+🧑🏽‍🦳	adulte%e2%80%af peau legerement mate et cheveux blancs
+🧑🏾‍🦳	adulte%e2%80%af peau mate et cheveux blancs
+🧑🏿‍🦳	adulte%e2%80%af peau foncee et cheveux blancs
+👩‍🦲	femme avec une tete chauve
+👩🏻‍🦲	femme avec une tete chauve peau 1
+👩🏼‍🦲	femme avec une tete chauve peau 2
+👩🏽‍🦲	femme avec une tete chauve peau 3
+👩🏾‍🦲	femme avec une tete chauve peau 4
+👩🏿‍🦲	femme avec une tete chauve peau 5
+🧑‍🦲	adulte%e2%80%af chauve
+🧑🏻‍🦲	adulte%e2%80%af peau claire et chauve
+🧑🏼‍🦲	adulte%e2%80%af peau moyennement claire et chauve
+🧑🏽‍🦲	adulte%e2%80%af peau legerement mate et chauve
+🧑🏾‍🦲	adulte%e2%80%af peau mate et chauve
+🧑🏿‍🦲	adulte%e2%80%af peau foncee et chauve
+👱‍♀️	blonde
+👱🏻‍♀️	blonde peau 1
+👱🏼‍♀️	blonde peau 2
+👱🏽‍♀️	blonde peau 3
+👱🏾‍♀️	blonde peau 4
+👱🏿‍♀️	blonde peau 5
+👱‍♂️	blond
+👱🏻‍♂️	blond peau 1
+👱🏼‍♂️	blond peau 2
+👱🏽‍♂️	blond peau 3
+👱🏾‍♂️	blond peau 4
+👱🏿‍♂️	blond peau 5
+🧓	adulte plus age
+🧓🏻	adulte plus age peau 1
+🧓🏼	adulte plus age peau 2
+🧓🏽	adulte plus age peau 3
+🧓🏾	adulte plus age peau 4
+🧓🏿	adulte plus age peau 5
+👴	homme age
+👴🏻	homme age peau 1
+👴🏼	homme age peau 2
+👴🏽	homme age peau 3
+👴🏾	homme age peau 4
+👴🏿	homme age peau 5
+👵	femme agee
+👵🏻	femme agee peau 1
+👵🏼	femme agee peau 2
+👵🏽	femme agee peau 3
+👵🏾	femme agee peau 4
+👵🏿	femme agee peau 5
+🙍	personne etonnee
+🙍🏻	personne etonnee peau 1
+🙍🏼	personne etonnee peau 2
+🙍🏽	personne etonnee peau 3
+🙍🏾	personne etonnee peau 4
+🙍🏿	personne etonnee peau 5
+🙍‍♂️	homme mecontent
+🙍🏻‍♂️	homme mecontent peau 1
+🙍🏼‍♂️	homme mecontent peau 2
+🙍🏽‍♂️	homme mecontent peau 3
+🙍🏾‍♂️	homme mecontent peau 4
+🙍🏿‍♂️	homme mecontent peau 5
+🙍‍♀️	femme mecontente
+🙍🏻‍♀️	femme mecontente peau 1
+🙍🏼‍♀️	femme mecontente peau 2
+🙍🏽‍♀️	femme mecontente peau 3
+🙍🏾‍♀️	femme mecontente peau 4
+🙍🏿‍♀️	femme mecontente peau 5
+🙎	personne qui boude
+🙎🏻	personne qui boude peau 1
+🙎🏼	personne qui boude peau 2
+🙎🏽	personne qui boude peau 3
+🙎🏾	personne qui boude peau 4
+🙎🏿	personne qui boude peau 5
+🙎‍♂️	boudeur
+🙎🏻‍♂️	boudeur peau 1
+🙎🏼‍♂️	boudeur peau 2
+🙎🏽‍♂️	boudeur peau 3
+🙎🏾‍♂️	boudeur peau 4
+🙎🏿‍♂️	boudeur peau 5
+🙎‍♀️	boudeuse
+🙎🏻‍♀️	boudeuse peau 1
+🙎🏼‍♀️	boudeuse peau 2
+🙎🏽‍♀️	boudeuse peau 3
+🙎🏾‍♀️	boudeuse peau 4
+🙎🏿‍♀️	boudeuse peau 5
+🙅	geste dinterdiction
+🙅🏻	geste dinterdiction peau 1
+🙅🏼	geste dinterdiction peau 2
+🙅🏽	geste dinterdiction peau 3
+🙅🏾	geste dinterdiction peau 4
+🙅🏿	geste dinterdiction peau 5
+🙅‍♂️	homme faisant un geste dinterdiction
+🙅🏻‍♂️	homme faisant un geste dinterdiction peau 1
+🙅🏼‍♂️	homme faisant un geste dinterdiction peau 2
+🙅🏽‍♂️	homme faisant un geste dinterdiction peau 3
+🙅🏾‍♂️	homme faisant un geste dinterdiction peau 4
+🙅🏿‍♂️	homme faisant un geste dinterdiction peau 5
+🙅‍♀️	femme faisant un geste dinterdiction
+🙅🏻‍♀️	femme faisant un geste dinterdiction peau 1
+🙅🏼‍♀️	femme faisant un geste dinterdiction peau 2
+🙅🏽‍♀️	femme faisant un geste dinterdiction peau 3
+🙅🏾‍♀️	femme faisant un geste dinterdiction peau 4
+🙅🏿‍♀️	femme faisant un geste dinterdiction peau 5
+🙆	geste daccord
+🙆🏻	geste daccord peau 1
+🙆🏼	geste daccord peau 2
+🙆🏽	geste daccord peau 3
+🙆🏾	geste daccord peau 4
+🙆🏿	geste daccord peau 5
+🙆‍♂️	homme faisant un geste daccord
+🙆🏻‍♂️	homme faisant un geste daccord peau 1
+🙆🏼‍♂️	homme faisant un geste daccord peau 2
+🙆🏽‍♂️	homme faisant un geste daccord peau 3
+🙆🏾‍♂️	homme faisant un geste daccord peau 4
+🙆🏿‍♂️	homme faisant un geste daccord peau 5
+🙆‍♀️	femme faisant un geste daccord
+🙆🏻‍♀️	femme faisant un geste daccord peau 1
+🙆🏼‍♀️	femme faisant un geste daccord peau 2
+🙆🏽‍♀️	femme faisant un geste daccord peau 3
+🙆🏾‍♀️	femme faisant un geste daccord peau 4
+🙆🏿‍♀️	femme faisant un geste daccord peau 5
+💁	assistance
+💁🏻	assistance peau 1
+💁🏼	assistance peau 2
+💁🏽	assistance peau 3
+💁🏾	assistance peau 4
+💁🏿	assistance peau 5
+💁‍♂️	homme paume vers le haut
+💁🏻‍♂️	homme paume vers le haut peau 1
+💁🏼‍♂️	homme paume vers le haut peau 2
+💁🏽‍♂️	homme paume vers le haut peau 3
+💁🏾‍♂️	homme paume vers le haut peau 4
+💁🏿‍♂️	homme paume vers le haut peau 5
+💁‍♀️	femme paume vers le haut
+💁🏻‍♀️	femme paume vers le haut peau 1
+💁🏼‍♀️	femme paume vers le haut peau 2
+💁🏽‍♀️	femme paume vers le haut peau 3
+💁🏾‍♀️	femme paume vers le haut peau 4
+💁🏿‍♀️	femme paume vers le haut peau 5
+🙋	personne qui leve la main
+🙋🏻	personne qui leve la main peau 1
+🙋🏼	personne qui leve la main peau 2
+🙋🏽	personne qui leve la main peau 3
+🙋🏾	personne qui leve la main peau 4
+🙋🏿	personne qui leve la main peau 5
+🙋‍♂️	homme qui leve la main
+🙋🏻‍♂️	homme qui leve la main peau 1
+🙋🏼‍♂️	homme qui leve la main peau 2
+🙋🏽‍♂️	homme qui leve la main peau 3
+🙋🏾‍♂️	homme qui leve la main peau 4
+🙋🏿‍♂️	homme qui leve la main peau 5
+🙋‍♀️	femme qui leve la main
+🙋🏻‍♀️	femme qui leve la main peau 1
+🙋🏼‍♀️	femme qui leve la main peau 2
+🙋🏽‍♀️	femme qui leve la main peau 3
+🙋🏾‍♀️	femme qui leve la main peau 4
+🙋🏿‍♀️	femme qui leve la main peau 5
+🧏	personne sourde
+🧏🏻	personne sourde%e2%80%af peau claire
+🧏🏼	personne sourde%e2%80%af peau moyennement claire
+🧏🏽	personne sourde%e2%80%af peau legerement mate
+🧏🏾	personne sourde%e2%80%af peau mate
+🧏🏿	personne sourde%e2%80%af peau foncee
+🧏‍♂️	homme sourd
+🧏🏻‍♂️	homme sourd%e2%80%af peau claire
+🧏🏼‍♂️	homme sourd%e2%80%af peau moyennement claire
+🧏🏽‍♂️	homme sourd%e2%80%af peau legerement mate
+🧏🏾‍♂️	homme sourd%e2%80%af peau mate
+🧏🏿‍♂️	homme sourd%e2%80%af peau foncee
+🧏‍♀️	femme sourde
+🧏🏻‍♀️	femme sourde%e2%80%af peau claire
+🧏🏼‍♀️	femme sourde%e2%80%af peau moyennement claire
+🧏🏽‍♀️	femme sourde%e2%80%af peau legerement mate
+🧏🏾‍♀️	femme sourde%e2%80%af peau mate
+🧏🏿‍♀️	femme sourde%e2%80%af peau foncee
+🙇	desole
+🙇🏻	desole peau 1
+🙇🏼	desole peau 2
+🙇🏽	desole peau 3
+🙇🏾	desole peau 4
+🙇🏿	desole peau 5
+🙇‍♂️	homme qui se prosterne
+🙇🏻‍♂️	homme qui se prosterne peau 1
+🙇🏼‍♂️	homme qui se prosterne peau 2
+🙇🏽‍♂️	homme qui se prosterne peau 3
+🙇🏾‍♂️	homme qui se prosterne peau 4
+🙇🏿‍♂️	homme qui se prosterne peau 5
+🙇‍♀️	femme qui se prosterne
+🙇🏻‍♀️	femme qui se prosterne peau 1
+🙇🏼‍♀️	femme qui se prosterne peau 2
+🙇🏽‍♀️	femme qui se prosterne peau 3
+🙇🏾‍♀️	femme qui se prosterne peau 4
+🙇🏿‍♀️	femme qui se prosterne peau 5
+🤦	paume de main
+🤦🏻	paume de main peau 1
+🤦🏼	paume de main peau 2
+🤦🏽	paume de main peau 3
+🤦🏾	paume de main peau 4
+🤦🏿	paume de main peau 5
+🤦‍♂️	homme paume sur le visage
+🤦🏻‍♂️	homme paume sur le visage peau 1
+🤦🏼‍♂️	homme paume sur le visage peau 2
+🤦🏽‍♂️	homme paume sur le visage peau 3
+🤦🏾‍♂️	homme paume sur le visage peau 4
+🤦🏿‍♂️	homme paume sur le visage peau 5
+🤦‍♀️	femme paume sur le visage
+🤦🏻‍♀️	femme paume sur le visage peau 1
+🤦🏼‍♀️	femme paume sur le visage peau 2
+🤦🏽‍♀️	femme paume sur le visage peau 3
+🤦🏾‍♀️	femme paume sur le visage peau 4
+🤦🏿‍♀️	femme paume sur le visage peau 5
+🤷	hausser les epaules
+🤷🏻	hausser les epaules peau 1
+🤷🏼	hausser les epaules peau 2
+🤷🏽	hausser les epaules peau 3
+🤷🏾	hausser les epaules peau 4
+🤷🏿	hausser les epaules peau 5
+🤷‍♂️	homme qui hausse les epaules
+🤷🏻‍♂️	homme qui hausse les epaules peau 1
+🤷🏼‍♂️	homme qui hausse les epaules peau 2
+🤷🏽‍♂️	homme qui hausse les epaules peau 3
+🤷🏾‍♂️	homme qui hausse les epaules peau 4
+🤷🏿‍♂️	homme qui hausse les epaules peau 5
+🤷‍♀️	femme qui hausse les epaules
+🤷🏻‍♀️	femme qui hausse les epaules peau 1
+🤷🏼‍♀️	femme qui hausse les epaules peau 2
+🤷🏽‍♀️	femme qui hausse les epaules peau 3
+🤷🏾‍♀️	femme qui hausse les epaules peau 4
+🤷🏿‍♀️	femme qui hausse les epaules peau 5
+🧑‍⚕️	professionnel de la sante tous genres
+🧑🏻‍⚕️	professionnel de la sante tous genres%e2%80%af peau claire
+🧑🏼‍⚕️	professionnel de la sante tous genres%e2%80%af peau moyennement claire
+🧑🏽‍⚕️	professionnel de la sante tous genres%e2%80%af peau legerement mate
+🧑🏾‍⚕️	professionnel de la sante tous genres%e2%80%af peau mate
+🧑🏿‍⚕️	professionnel de la sante tous genres%e2%80%af peau foncee
+👨‍⚕️	homme profession medicale
+👨🏻‍⚕️	homme profession medicale peau 1
+👨🏼‍⚕️	homme profession medicale peau 2
+👨🏽‍⚕️	homme profession medicale peau 3
+👨🏾‍⚕️	homme profession medicale peau 4
+👨🏿‍⚕️	homme profession medicale peau 5
+👩‍⚕️	femme profession medicale
+👩🏻‍⚕️	femme profession medicale peau 1
+👩🏼‍⚕️	femme profession medicale peau 2
+👩🏽‍⚕️	femme profession medicale peau 3
+👩🏾‍⚕️	femme profession medicale peau 4
+👩🏿‍⚕️	femme profession medicale peau 5
+🧑‍🎓	etudiant tous genres
+🧑🏻‍🎓	etudiant tous genres%e2%80%af peau claire
+🧑🏼‍🎓	etudiant tous genres%e2%80%af peau moyennement claire
+🧑🏽‍🎓	etudiant tous genres%e2%80%af peau legerement mate
+🧑🏾‍🎓	etudiant tous genres%e2%80%af peau mate
+🧑🏿‍🎓	etudiant tous genres%e2%80%af peau foncee
+👨‍🎓	etudiant
+👨🏻‍🎓	etudiant peau 1
+👨🏼‍🎓	etudiant peau 2
+👨🏽‍🎓	etudiant peau 3
+👨🏾‍🎓	etudiant peau 4
+👨🏿‍🎓	etudiant peau 5
+👩‍🎓	etudiante
+👩🏻‍🎓	etudiante peau 1
+👩🏼‍🎓	etudiante peau 2
+👩🏽‍🎓	etudiante peau 3
+👩🏾‍🎓	etudiante peau 4
+👩🏿‍🎓	etudiante peau 5
+🧑‍🏫	personnel enseignant
+🧑🏻‍🏫	personnel enseignant%e2%80%af peau claire
+🧑🏼‍🏫	personnel enseignant%e2%80%af peau moyennement claire
+🧑🏽‍🏫	personnel enseignant%e2%80%af peau legerement mate
+🧑🏾‍🏫	personnel enseignant%e2%80%af peau mate
+🧑🏿‍🏫	personnel enseignant%e2%80%af peau foncee
+👨‍🏫	professeur
+👨🏻‍🏫	professeur peau 1
+👨🏼‍🏫	professeur peau 2
+👨🏽‍🏫	professeur peau 3
+👨🏾‍🏫	professeur peau 4
+👨🏿‍🏫	professeur peau 5
+👩‍🏫	professeure
+👩🏻‍🏫	professeure peau 1
+👩🏼‍🏫	professeure peau 2
+👩🏽‍🏫	professeure peau 3
+👩🏾‍🏫	professeure peau 4
+👩🏿‍🏫	professeure peau 5
+🧑‍⚖️	juge
+🧑🏻‍⚖️	juge%e2%80%af peau claire
+🧑🏼‍⚖️	juge%e2%80%af peau moyennement claire
+🧑🏽‍⚖️	juge%e2%80%af peau legerement mate
+🧑🏾‍⚖️	juge%e2%80%af peau mate
+🧑🏿‍⚖️	juge%e2%80%af peau foncee
+👨‍⚖️	juge homme
+👨🏻‍⚖️	juge homme peau 1
+👨🏼‍⚖️	juge homme peau 2
+👨🏽‍⚖️	juge homme peau 3
+👨🏾‍⚖️	juge homme peau 4
+👨🏿‍⚖️	juge homme peau 5
+👩‍⚖️	juge femme
+👩🏻‍⚖️	juge femme peau 1
+👩🏼‍⚖️	juge femme peau 2
+👩🏽‍⚖️	juge femme peau 3
+👩🏾‍⚖️	juge femme peau 4
+👩🏿‍⚖️	juge femme peau 5
+🧑‍🌾	fermier tous genres
+🧑🏻‍🌾	fermier tous genres%e2%80%af peau claire
+🧑🏼‍🌾	fermier tous genres%e2%80%af peau moyennement claire
+🧑🏽‍🌾	fermier tous genres%e2%80%af peau legerement mate
+🧑🏾‍🌾	fermier tous genres%e2%80%af peau mate
+🧑🏿‍🌾	fermier tous genres%e2%80%af peau foncee
+👨‍🌾	fermier
+👨🏻‍🌾	fermier peau 1
+👨🏼‍🌾	fermier peau 2
+👨🏽‍🌾	fermier peau 3
+👨🏾‍🌾	fermier peau 4
+👨🏿‍🌾	fermier peau 5
+👩‍🌾	fermiere
+👩🏻‍🌾	fermiere peau 1
+👩🏼‍🌾	fermiere peau 2
+👩🏽‍🌾	fermiere peau 3
+👩🏾‍🌾	fermiere peau 4
+👩🏿‍🌾	fermiere peau 5
+🧑‍🍳	cuisinier tous genres
+🧑🏻‍🍳	cuisinier tous genres%e2%80%af peau claire
+🧑🏼‍🍳	cuisinier tous genres%e2%80%af peau moyennement claire
+🧑🏽‍🍳	cuisinier tous genres%e2%80%af peau legerement mate
+🧑🏾‍🍳	cuisinier tous genres%e2%80%af peau mate
+🧑🏿‍🍳	cuisinier tous genres%e2%80%af peau foncee
+👨‍🍳	cuisinier
+👨🏻‍🍳	cuisinier peau 1
+👨🏼‍🍳	cuisinier peau 2
+👨🏽‍🍳	cuisinier peau 3
+👨🏾‍🍳	cuisinier peau 4
+👨🏿‍🍳	cuisinier peau 5
+👩‍🍳	cuisiniere
+👩🏻‍🍳	cuisiniere peau 1
+👩🏼‍🍳	cuisiniere peau 2
+👩🏽‍🍳	cuisiniere peau 3
+👩🏾‍🍳	cuisiniere peau 4
+👩🏿‍🍳	cuisiniere peau 5
+🧑‍🔧	mecanicien tous genres
+🧑🏻‍🔧	mecanicien tous genres%e2%80%af peau claire
+🧑🏼‍🔧	mecanicien tous genres%e2%80%af peau moyennement claire
+🧑🏽‍🔧	mecanicien tous genres%e2%80%af peau legerement mate
+🧑🏾‍🔧	mecanicien tous genres%e2%80%af peau mate
+🧑🏿‍🔧	mecanicien tous genres%e2%80%af peau foncee
+👨‍🔧	mecanicien
+👨🏻‍🔧	mecanicien peau 1
+👨🏼‍🔧	mecanicien peau 2
+👨🏽‍🔧	mecanicien peau 3
+👨🏾‍🔧	mecanicien peau 4
+👨🏿‍🔧	mecanicien peau 5
+👩‍🔧	mecanicienne
+👩🏻‍🔧	mecanicienne peau 1
+👩🏼‍🔧	mecanicienne peau 2
+👩🏽‍🔧	mecanicienne peau 3
+👩🏾‍🔧	mecanicienne peau 4
+👩🏿‍🔧	mecanicienne peau 5
+🧑‍🏭	ouvrier tous genres
+🧑🏻‍🏭	ouvrier tous genres%e2%80%af peau claire
+🧑🏼‍🏭	ouvrier tous genres%e2%80%af peau moyennement claire
+🧑🏽‍🏭	ouvrier tous genres%e2%80%af peau legerement mate
+🧑🏾‍🏭	ouvrier tous genres%e2%80%af peau mate
+🧑🏿‍🏭	ouvrier tous genres%e2%80%af peau foncee
+👨‍🏭	ouvrier
+👨🏻‍🏭	ouvrier peau 1
+👨🏼‍🏭	ouvrier peau 2
+👨🏽‍🏭	ouvrier peau 3
+👨🏾‍🏭	ouvrier peau 4
+👨🏿‍🏭	ouvrier peau 5
+👩‍🏭	ouvriere
+👩🏻‍🏭	ouvriere peau 1
+👩🏼‍🏭	ouvriere peau 2
+👩🏽‍🏭	ouvriere peau 3
+👩🏾‍🏭	ouvriere peau 4
+👩🏿‍🏭	ouvriere peau 5
+🧑‍💼	employe de bureau tous genres
+🧑🏻‍💼	employe de bureau tous genres%e2%80%af peau claire
+🧑🏼‍💼	employe de bureau tous genres%e2%80%af peau moyennement claire
+🧑🏽‍💼	employe de bureau tous genres%e2%80%af peau legerement mate
+🧑🏾‍💼	employe de bureau tous genres%e2%80%af peau mate
+🧑🏿‍💼	employe de bureau tous genres%e2%80%af peau foncee
+👨‍💼	employe de bureau
+👨🏻‍💼	employe de bureau peau 1
+👨🏼‍💼	employe de bureau peau 2
+👨🏽‍💼	employe de bureau peau 3
+👨🏾‍💼	employe de bureau peau 4
+👨🏿‍💼	employe de bureau peau 5
+👩‍💼	employee de bureau
+👩🏻‍💼	employee de bureau peau 1
+👩🏼‍💼	employee de bureau peau 2
+👩🏽‍💼	employee de bureau peau 3
+👩🏾‍💼	employee de bureau peau 4
+👩🏿‍💼	employee de bureau peau 5
+🧑‍🔬	scientifique
+🧑🏻‍🔬	scientifique%e2%80%af peau claire
+🧑🏼‍🔬	scientifique%e2%80%af peau moyennement claire
+🧑🏽‍🔬	scientifique%e2%80%af peau legerement mate
+🧑🏾‍🔬	scientifique%e2%80%af peau mate
+🧑🏿‍🔬	scientifique%e2%80%af peau foncee
+👨‍🔬	scientifique homme
+👨🏻‍🔬	scientifique homme peau 1
+👨🏼‍🔬	scientifique homme peau 2
+👨🏽‍🔬	scientifique homme peau 3
+👨🏾‍🔬	scientifique homme peau 4
+👨🏿‍🔬	scientifique homme peau 5
+👩‍🔬	scientifique femme
+👩🏻‍🔬	scientifique femme peau 1
+👩🏼‍🔬	scientifique femme peau 2
+👩🏽‍🔬	scientifique femme peau 3
+👩🏾‍🔬	scientifique femme peau 4
+👩🏿‍🔬	scientifique femme peau 5
+🧑‍💻	informaticien tous genres
+🧑🏻‍💻	informaticien tous genres%e2%80%af peau claire
+🧑🏼‍💻	informaticien tous genres%e2%80%af peau moyennement claire
+🧑🏽‍💻	informaticien tous genres%e2%80%af peau legerement mate
+🧑🏾‍💻	informaticien tous genres%e2%80%af peau mate
+🧑🏿‍💻	informaticien tous genres%e2%80%af peau foncee
+👨‍💻	informaticien
+👨🏻‍💻	informaticien peau 1
+👨🏼‍💻	informaticien peau 2
+👨🏽‍💻	informaticien peau 3
+👨🏾‍💻	informaticien peau 4
+👨🏿‍💻	informaticien peau 5
+👩‍💻	informaticienne
+👩🏻‍💻	informaticienne peau 1
+👩🏼‍💻	informaticienne peau 2
+👩🏽‍💻	informaticienne peau 3
+👩🏾‍💻	informaticienne peau 4
+👩🏿‍💻	informaticienne peau 5
+🧑‍🎤	chanteur tous genres
+🧑🏻‍🎤	chanteur tous genres%e2%80%af peau claire
+🧑🏼‍🎤	chanteur tous genres%e2%80%af peau moyennement claire
+🧑🏽‍🎤	chanteur tous genres%e2%80%af peau legerement mate
+🧑🏾‍🎤	chanteur tous genres%e2%80%af peau mate
+🧑🏿‍🎤	chanteur tous genres%e2%80%af peau foncee
+👨‍🎤	chanteur
+👨🏻‍🎤	chanteur peau 1
+👨🏼‍🎤	chanteur peau 2
+👨🏽‍🎤	chanteur peau 3
+👨🏾‍🎤	chanteur peau 4
+👨🏿‍🎤	chanteur peau 5
+👩‍🎤	chanteuse
+👩🏻‍🎤	chanteuse peau 1
+👩🏼‍🎤	chanteuse peau 2
+👩🏽‍🎤	chanteuse peau 3
+👩🏾‍🎤	chanteuse peau 4
+👩🏿‍🎤	chanteuse peau 5
+🧑‍🎨	artiste
+🧑🏻‍🎨	artiste%e2%80%af peau claire
+🧑🏼‍🎨	artiste%e2%80%af peau moyennement claire
+🧑🏽‍🎨	artiste%e2%80%af peau legerement mate
+🧑🏾‍🎨	artiste%e2%80%af peau mate
+🧑🏿‍🎨	artiste%e2%80%af peau foncee
+👨‍🎨	artiste homme
+👨🏻‍🎨	artiste homme peau 1
+👨🏼‍🎨	artiste homme peau 2
+👨🏽‍🎨	artiste homme peau 3
+👨🏾‍🎨	artiste homme peau 4
+👨🏿‍🎨	artiste homme peau 5
+👩‍🎨	artiste femme
+👩🏻‍🎨	artiste femme peau 1
+👩🏼‍🎨	artiste femme peau 2
+👩🏽‍🎨	artiste femme peau 3
+👩🏾‍🎨	artiste femme peau 4
+👩🏿‍🎨	artiste femme peau 5
+🧑‍✈️	pilote
+🧑🏻‍✈️	pilote%e2%80%af peau claire
+🧑🏼‍✈️	pilote%e2%80%af peau moyennement claire
+🧑🏽‍✈️	pilote%e2%80%af peau legerement mate
+🧑🏾‍✈️	pilote%e2%80%af peau mate
+🧑🏿‍✈️	pilote%e2%80%af peau foncee
+👨‍✈️	pilote homme
+👨🏻‍✈️	pilote homme peau 1
+👨🏼‍✈️	pilote homme peau 2
+👨🏽‍✈️	pilote homme peau 3
+👨🏾‍✈️	pilote homme peau 4
+👨🏿‍✈️	pilote homme peau 5
+👩‍✈️	pilote femme
+👩🏻‍✈️	pilote femme peau 1
+👩🏼‍✈️	pilote femme peau 2
+👩🏽‍✈️	pilote femme peau 3
+👩🏾‍✈️	pilote femme peau 4
+👩🏿‍✈️	pilote femme peau 5
+🧑‍🚀	astronaute
+🧑🏻‍🚀	astronaute%e2%80%af peau claire
+🧑🏼‍🚀	astronaute%e2%80%af peau moyennement claire
+🧑🏽‍🚀	astronaute%e2%80%af peau legerement mate
+🧑🏾‍🚀	astronaute%e2%80%af peau mate
+🧑🏿‍🚀	astronaute%e2%80%af peau foncee
+👨‍🚀	astronaute homme
+👨🏻‍🚀	astronaute homme peau 1
+👨🏼‍🚀	astronaute homme peau 2
+👨🏽‍🚀	astronaute homme peau 3
+👨🏾‍🚀	astronaute homme peau 4
+👨🏿‍🚀	astronaute homme peau 5
+👩‍🚀	astronaute femme
+👩🏻‍🚀	astronaute femme peau 1
+👩🏼‍🚀	astronaute femme peau 2
+👩🏽‍🚀	astronaute femme peau 3
+👩🏾‍🚀	astronaute femme peau 4
+👩🏿‍🚀	astronaute femme peau 5
+🧑‍🚒	pompier
+🧑🏻‍🚒	pompier%e2%80%af peau claire
+🧑🏼‍🚒	pompier%e2%80%af peau moyennement claire
+🧑🏽‍🚒	pompier%e2%80%af peau legerement mate
+🧑🏾‍🚒	pompier%e2%80%af peau mate
+🧑🏿‍🚒	pompier%e2%80%af peau foncee
+👨‍🚒	pompier homme
+👨🏻‍🚒	pompier homme peau 1
+👨🏼‍🚒	pompier homme peau 2
+👨🏽‍🚒	pompier homme peau 3
+👨🏾‍🚒	pompier homme peau 4
+👨🏿‍🚒	pompier homme peau 5
+👩‍🚒	pompier femme
+👩🏻‍🚒	pompier femme peau 1
+👩🏼‍🚒	pompier femme peau 2
+👩🏽‍🚒	pompier femme peau 3
+👩🏾‍🚒	pompier femme peau 4
+👩🏿‍🚒	pompier femme peau 5
+👮	policier
+👮🏻	policier peau 1
+👮🏼	policier peau 2
+👮🏽	policier peau 3
+👮🏾	policier peau 4
+👮🏿	policier peau 5
+👮‍♂️	officier de police
+👮🏻‍♂️	officier de police peau 1
+👮🏼‍♂️	officier de police peau 2
+👮🏽‍♂️	officier de police peau 3
+👮🏾‍♂️	officier de police peau 4
+👮🏿‍♂️	officier de police peau 5
+👮‍♀️	policiere
+👮🏻‍♀️	policiere peau 1
+👮🏼‍♀️	policiere peau 2
+👮🏽‍♀️	policiere peau 3
+👮🏾‍♀️	policiere peau 4
+👮🏿‍♀️	policiere peau 5
+🕵️	detective
+🕵🏻	detective peau 1
+🕵🏼	detective peau 2
+🕵🏽	detective peau 3
+🕵🏾	detective peau 4
+🕵🏿	detective peau 5
+🕵️‍♂️	detective homme
+🕵🏻‍♂️	detective homme peau 1
+🕵🏼‍♂️	detective homme peau 2
+🕵🏽‍♂️	detective homme peau 3
+🕵🏾‍♂️	detective homme peau 4
+🕵🏿‍♂️	detective homme peau 5
+🕵️‍♀️	detective femme
+🕵🏻‍♀️	detective femme peau 1
+🕵🏼‍♀️	detective femme peau 2
+🕵🏽‍♀️	detective femme peau 3
+🕵🏾‍♀️	detective femme peau 4
+🕵🏿‍♀️	detective femme peau 5
+💂	garde
+💂🏻	garde peau 1
+💂🏼	garde peau 2
+💂🏽	garde peau 3
+💂🏾	garde peau 4
+💂🏿	garde peau 5
+💂‍♂️	garde homme
+💂🏻‍♂️	garde homme peau 1
+💂🏼‍♂️	garde homme peau 2
+💂🏽‍♂️	garde homme peau 3
+💂🏾‍♂️	garde homme peau 4
+💂🏿‍♂️	garde homme peau 5
+💂‍♀️	garde femme
+💂🏻‍♀️	garde femme peau 1
+💂🏼‍♀️	garde femme peau 2
+💂🏽‍♀️	garde femme peau 3
+💂🏾‍♀️	garde femme peau 4
+💂🏿‍♀️	garde femme peau 5
+🥷	ninja 2
+🥷🏻	ninja%e2%80%af peau claire
+🥷🏼	ninja%e2%80%af peau moyennement claire
+🥷🏽	ninja%e2%80%af peau legerement mate
+🥷🏾	ninja%e2%80%af peau mate
+🥷🏿	ninja%e2%80%af peau foncee
+👷	ouvrier du batiment
+👷🏻	ouvrier du batiment peau 1
+👷🏼	ouvrier du batiment peau 2
+👷🏽	ouvrier du batiment peau 3
+👷🏾	ouvrier du batiment peau 4
+👷🏿	ouvrier du batiment peau 5
+👷‍♂️	ouvrier du batiment homme
+👷🏻‍♂️	ouvrier du batiment homme peau 1
+👷🏼‍♂️	ouvrier du batiment homme peau 2
+👷🏽‍♂️	ouvrier du batiment homme peau 3
+👷🏾‍♂️	ouvrier du batiment homme peau 4
+👷🏿‍♂️	ouvrier du batiment homme peau 5
+👷‍♀️	ouvrier du batiment femme
+👷🏻‍♀️	ouvrier du batiment femme peau 1
+👷🏼‍♀️	ouvrier du batiment femme peau 2
+👷🏽‍♀️	ouvrier du batiment femme peau 3
+👷🏾‍♀️	ouvrier du batiment femme peau 4
+👷🏿‍♀️	ouvrier du batiment femme peau 5
+🤴	prince
+🤴🏻	prince peau 1
+🤴🏼	prince peau 2
+🤴🏽	prince peau 3
+🤴🏾	prince peau 4
+🤴🏿	prince peau 5
+👸	princesse
+👸🏻	princesse peau 1
+👸🏼	princesse peau 2
+👸🏽	princesse peau 3
+👸🏾	princesse peau 4
+👸🏿	princesse peau 5
+👳	personne avec turban
+👳🏻	personne avec turban peau 1
+👳🏼	personne avec turban peau 2
+👳🏽	personne avec turban peau 3
+👳🏾	personne avec turban peau 4
+👳🏿	personne avec turban peau 5
+👳‍♂️	homme avec turban
+👳🏻‍♂️	homme avec turban peau 1
+👳🏼‍♂️	homme avec turban peau 2
+👳🏽‍♂️	homme avec turban peau 3
+👳🏾‍♂️	homme avec turban peau 4
+👳🏿‍♂️	homme avec turban peau 5
+👳‍♀️	femme avec turban
+👳🏻‍♀️	femme avec turban peau 1
+👳🏼‍♀️	femme avec turban peau 2
+👳🏽‍♀️	femme avec turban peau 3
+👳🏾‍♀️	femme avec turban peau 4
+👳🏿‍♀️	femme avec turban peau 5
+👲	homme avec casquette chinoise
+👲🏻	homme avec casquette chinoise peau 1
+👲🏼	homme avec casquette chinoise peau 2
+👲🏽	homme avec casquette chinoise peau 3
+👲🏾	homme avec casquette chinoise peau 4
+👲🏿	homme avec casquette chinoise peau 5
+🧕	femme avec foulard
+🧕🏻	femme avec foulard peau 1
+🧕🏼	femme avec foulard peau 2
+🧕🏽	femme avec foulard peau 3
+🧕🏾	femme avec foulard peau 4
+🧕🏿	femme avec foulard peau 5
+🤵	personne en smoking
+🤵🏻	personne en smoking%e2%80%af peau claire
+🤵🏼	personne en smoking%e2%80%af peau moyennement claire
+🤵🏽	personne en smoking%e2%80%af peau legerement mate
+🤵🏾	personne en smoking%e2%80%af peau mate
+🤵🏿	personne en smoking%e2%80%af peau foncee
+🤵‍♂️	smoking
+🤵🏻‍♂️	smoking peau 1
+🤵🏼‍♂️	smoking peau 2
+🤵🏽‍♂️	smoking peau 3
+🤵🏾‍♂️	smoking peau 4
+🤵🏿‍♂️	smoking peau 5
+🤵‍♀️	femme en smoking
+🤵🏻‍♀️	femme en smoking%e2%80%af peau claire
+🤵🏼‍♀️	femme en smoking%e2%80%af peau moyennement claire
+🤵🏽‍♀️	femme en smoking%e2%80%af peau legerement mate
+🤵🏾‍♀️	femme en smoking%e2%80%af peau mate
+🤵🏿‍♀️	femme en smoking%e2%80%af peau foncee
+👰	personne mariee avec voile
+👰🏻	personne mariee avec voile%e2%80%af peau claire
+👰🏼	personne mariee avec voile%e2%80%af peau moyennement claire
+👰🏽	personne mariee avec voile%e2%80%af peau legerement mate
+👰🏾	personne mariee avec voile%e2%80%af peau mate
+👰🏿	personne mariee avec voile%e2%80%af peau foncee
+👰‍♂️	homme avec voile
+👰🏻‍♂️	homme avec voile%e2%80%af peau claire
+👰🏼‍♂️	homme avec voile%e2%80%af peau moyennement claire
+👰🏽‍♂️	homme avec voile%e2%80%af peau legerement mate
+👰🏾‍♂️	homme avec voile%e2%80%af peau mate
+👰🏿‍♂️	homme avec voile%e2%80%af peau foncee
+👰‍♀️	mariee avec voile
+👰🏻‍♀️	mariee avec voile peau 1
+👰🏼‍♀️	mariee avec voile peau 2
+👰🏽‍♀️	mariee avec voile peau 3
+👰🏾‍♀️	mariee avec voile peau 4
+👰🏿‍♀️	mariee avec voile peau 5
+🤰	femme enceinte
+🤰🏻	femme enceinte peau 1
+🤰🏼	femme enceinte peau 2
+🤰🏽	femme enceinte peau 3
+🤰🏾	femme enceinte peau 4
+🤰🏿	femme enceinte peau 5
+🤱	allaiter
+🤱🏻	allaiter peau 1
+🤱🏼	allaiter peau 2
+🤱🏽	allaiter peau 3
+🤱🏾	allaiter peau 4
+🤱🏿	allaiter peau 5
+👩‍🍼	femme allaitant un bebe
+👩🏻‍🍼	femme allaitant un bebe%e2%80%af peau claire
+👩🏼‍🍼	femme allaitant un bebe%e2%80%af peau moyennement claire
+👩🏽‍🍼	femme allaitant un bebe%e2%80%af peau legerement mate
+👩🏾‍🍼	femme allaitant un bebe%e2%80%af peau mate
+👩🏿‍🍼	femme allaitant un bebe%e2%80%af peau foncee
+👨‍🍼	homme allaitant un bebe
+👨🏻‍🍼	homme allaitant un bebe%e2%80%af peau claire
+👨🏼‍🍼	homme allaitant un bebe%e2%80%af peau moyennement claire
+👨🏽‍🍼	homme allaitant un bebe%e2%80%af peau legerement mate
+👨🏾‍🍼	homme allaitant un bebe%e2%80%af peau mate
+👨🏿‍🍼	homme allaitant un bebe%e2%80%af peau foncee
+🧑‍🍼	personne allaitant un bebe
+🧑🏻‍🍼	personne allaitant un bebe%e2%80%af peau claire
+🧑🏼‍🍼	personne allaitant un bebe%e2%80%af peau moyennement claire
+🧑🏽‍🍼	personne allaitant un bebe%e2%80%af peau legerement mate
+🧑🏾‍🍼	personne allaitant un bebe%e2%80%af peau mate
+🧑🏿‍🍼	personne allaitant un bebe%e2%80%af peau foncee
+👼	bebe ange
+👼🏻	bebe ange peau 1
+👼🏼	bebe ange peau 2
+👼🏽	bebe ange peau 3
+👼🏾	bebe ange peau 4
+👼🏿	bebe ange peau 5
+🎅	pere noel
+🎅🏻	pere noel peau 1
+🎅🏼	pere noel peau 2
+🎅🏽	pere noel peau 3
+🎅🏾	pere noel peau 4
+🎅🏿	pere noel peau 5
+🤶	mere noel
+🤶🏻	mere noel peau 1
+🤶🏼	mere noel peau 2
+🤶🏽	mere noel peau 3
+🤶🏾	mere noel peau 4
+🤶🏿	mere noel peau 5
+🧑‍🎄	santa
+🧑🏻‍🎄	santa%e2%80%af peau claire
+🧑🏼‍🎄	santa%e2%80%af peau moyennement claire
+🧑🏽‍🎄	santa%e2%80%af peau legerement mate
+🧑🏾‍🎄	santa%e2%80%af peau mate
+🧑🏿‍🎄	santa%e2%80%af peau foncee
+🦸	super heros personne
+🦸🏻	super heros personne peau 1
+🦸🏼	super heros personne peau 2
+🦸🏽	super heros personne peau 3
+🦸🏾	super heros personne peau 4
+🦸🏿	super heros personne peau 5
+🦸‍♂️	super heros
+🦸🏻‍♂️	super heros peau 1
+🦸🏼‍♂️	super heros peau 2
+🦸🏽‍♂️	super heros peau 3
+🦸🏾‍♂️	super heros peau 4
+🦸🏿‍♂️	super heros peau 5
+🦸‍♀️	super heroine
+🦸🏻‍♀️	super heroine peau 1
+🦸🏼‍♀️	super heroine peau 2
+🦸🏽‍♀️	super heroine peau 3
+🦸🏾‍♀️	super heroine peau 4
+🦸🏿‍♀️	super heroine peau 5
+🦹	mechant personne
+🦹🏻	mechant personne peau 1
+🦹🏼	mechant personne peau 2
+🦹🏽	mechant personne peau 3
+🦹🏾	mechant personne peau 4
+🦹🏿	mechant personne peau 5
+🦹‍♂️	mechant
+🦹🏻‍♂️	mechant peau 1
+🦹🏼‍♂️	mechant peau 2
+🦹🏽‍♂️	mechant peau 3
+🦹🏾‍♂️	mechant peau 4
+🦹🏿‍♂️	mechant peau 5
+🦹‍♀️	femme mechante
+🦹🏻‍♀️	femme mechante peau 1
+🦹🏼‍♀️	femme mechante peau 2
+🦹🏽‍♀️	femme mechante peau 3
+🦹🏾‍♀️	femme mechante peau 4
+🦹🏿‍♀️	femme mechante peau 5
+🧙	magicienne
+🧙🏻	magicienne peau 1
+🧙🏼	magicienne peau 2
+🧙🏽	magicienne peau 3
+🧙🏾	magicienne peau 4
+🧙🏿	magicienne peau 5
+🧙‍♂️	magicien
+🧙🏻‍♂️	magicien peau 1
+🧙🏼‍♂️	magicien peau 2
+🧙🏽‍♂️	magicien peau 3
+🧙🏾‍♂️	magicien peau 4
+🧙🏿‍♂️	magicien peau 5
+🧙‍♀️	magicienne 2
+🧙🏻‍♀️	magicienne peau 1 2
+🧙🏼‍♀️	magicienne peau 2 2
+🧙🏽‍♀️	magicienne peau 3 2
+🧙🏾‍♀️	magicienne peau 4 2
+🧙🏿‍♀️	magicienne peau 5 2
+🧚	personne fee
+🧚🏻	personne fee peau 1
+🧚🏼	personne fee peau 2
+🧚🏽	personne fee peau 3
+🧚🏾	personne fee peau 4
+🧚🏿	personne fee peau 5
+🧚‍♂️	homme fee
+🧚🏻‍♂️	homme fee peau 1
+🧚🏼‍♂️	homme fee peau 2
+🧚🏽‍♂️	homme fee peau 3
+🧚🏾‍♂️	homme fee peau 4
+🧚🏿‍♂️	homme fee peau 5
+🧚‍♀️	femme fee
+🧚🏻‍♀️	femme fee peau 1
+🧚🏼‍♀️	femme fee peau 2
+🧚🏽‍♀️	femme fee peau 3
+🧚🏾‍♀️	femme fee peau 4
+🧚🏿‍♀️	femme fee peau 5
+🧛	personne vampire
+🧛🏻	personne vampire peau 1
+🧛🏼	personne vampire peau 2
+🧛🏽	personne vampire peau 3
+🧛🏾	personne vampire peau 4
+🧛🏿	personne vampire peau 5
+🧛‍♂️	homme vampire
+🧛🏻‍♂️	homme vampire peau 1
+🧛🏼‍♂️	homme vampire peau 2
+🧛🏽‍♂️	homme vampire peau 3
+🧛🏾‍♂️	homme vampire peau 4
+🧛🏿‍♂️	homme vampire peau 5
+🧛‍♀️	femme vampire
+🧛🏻‍♀️	femme vampire peau 1
+🧛🏼‍♀️	femme vampire peau 2
+🧛🏽‍♀️	femme vampire peau 3
+🧛🏾‍♀️	femme vampire peau 4
+🧛🏿‍♀️	femme vampire peau 5
+🧜	ondine
+🧜🏻	ondine peau 1
+🧜🏼	ondine peau 2
+🧜🏽	ondine peau 3
+🧜🏾	ondine peau 4
+🧜🏿	ondine peau 5
+🧜‍♂️	sirene male
+🧜🏻‍♂️	sirene male peau 1
+🧜🏼‍♂️	sirene male peau 2
+🧜🏽‍♂️	sirene male peau 3
+🧜🏾‍♂️	sirene male peau 4
+🧜🏿‍♂️	sirene male peau 5
+🧜‍♀️	sirene
+🧜🏻‍♀️	sirene peau 1
+🧜🏼‍♀️	sirene peau 2
+🧜🏽‍♀️	sirene peau 3
+🧜🏾‍♀️	sirene peau 4
+🧜🏿‍♀️	sirene peau 5
+🧝	personne elfe
+🧝🏻	personne elfe peau 1
+🧝🏼	personne elfe peau 2
+🧝🏽	personne elfe peau 3
+🧝🏾	personne elfe peau 4
+🧝🏿	personne elfe peau 5
+🧝‍♂️	homme elfe
+🧝🏻‍♂️	homme elfe peau 1
+🧝🏼‍♂️	homme elfe peau 2
+🧝🏽‍♂️	homme elfe peau 3
+🧝🏾‍♂️	homme elfe peau 4
+🧝🏿‍♂️	homme elfe peau 5
+🧝‍♀️	femme elfe
+🧝🏻‍♀️	femme elfe peau 1
+🧝🏼‍♀️	femme elfe peau 2
+🧝🏽‍♀️	femme elfe peau 3
+🧝🏾‍♀️	femme elfe peau 4
+🧝🏿‍♀️	femme elfe peau 5
+🧞	personne genie
+🧞‍♂️	homme genie
+🧞‍♀️	femme genie
+🧟	personne zombie
+🧟‍♂️	homme zombie
+🧟‍♀️	femme zombie
+💆	personne qui se fait masser
+💆🏻	personne qui se fait masser peau 1
+💆🏼	personne qui se fait masser peau 2
+💆🏽	personne qui se fait masser peau 3
+💆🏾	personne qui se fait masser peau 4
+💆🏿	personne qui se fait masser peau 5
+💆‍♂️	homme qui se fait masser le visage
+💆🏻‍♂️	homme qui se fait masser le visage peau 1
+💆🏼‍♂️	homme qui se fait masser le visage peau 2
+💆🏽‍♂️	homme qui se fait masser le visage peau 3
+💆🏾‍♂️	homme qui se fait masser le visage peau 4
+💆🏿‍♂️	homme qui se fait masser le visage peau 5
+💆‍♀️	femme qui se fait masser le visage
+💆🏻‍♀️	femme qui se fait masser le visage peau 1
+💆🏼‍♀️	femme qui se fait masser le visage peau 2
+💆🏽‍♀️	femme qui se fait masser le visage peau 3
+💆🏾‍♀️	femme qui se fait masser le visage peau 4
+💆🏿‍♀️	femme qui se fait masser le visage peau 5
+💇	personne qui se fait couper les cheveux
+💇🏻	personne qui se fait couper les cheveux peau 1
+💇🏼	personne qui se fait couper les cheveux peau 2
+💇🏽	personne qui se fait couper les cheveux peau 3
+💇🏾	personne qui se fait couper les cheveux peau 4
+💇🏿	personne qui se fait couper les cheveux peau 5
+💇‍♂️	homme chez le coiffeur
+💇🏻‍♂️	homme chez le coiffeur peau 1
+💇🏼‍♂️	homme chez le coiffeur peau 2
+💇🏽‍♂️	homme chez le coiffeur peau 3
+💇🏾‍♂️	homme chez le coiffeur peau 4
+💇🏿‍♂️	homme chez le coiffeur peau 5
+💇‍♀️	femme chez le coiffeur
+💇🏻‍♀️	femme chez le coiffeur peau 1
+💇🏼‍♀️	femme chez le coiffeur peau 2
+💇🏽‍♀️	femme chez le coiffeur peau 3
+💇🏾‍♀️	femme chez le coiffeur peau 4
+💇🏿‍♀️	femme chez le coiffeur peau 5
+🚶	personne qui marche
+🚶🏻	personne qui marche peau 1
+🚶🏼	personne qui marche peau 2
+🚶🏽	personne qui marche peau 3
+🚶🏾	personne qui marche peau 4
+🚶🏿	personne qui marche peau 5
+🚶‍♂️	pieton
+🚶🏻‍♂️	pieton peau 1
+🚶🏼‍♂️	pieton peau 2
+🚶🏽‍♂️	pieton peau 3
+🚶🏾‍♂️	pieton peau 4
+🚶🏿‍♂️	pieton peau 5
+🚶‍♀️	pietonne
+🚶🏻‍♀️	pietonne peau 1
+🚶🏼‍♀️	pietonne peau 2
+🚶🏽‍♀️	pietonne peau 3
+🚶🏾‍♀️	pietonne peau 4
+🚶🏿‍♀️	pietonne peau 5
+🧍	personne debout
+🧍🏻	personne debout%e2%80%af peau claire
+🧍🏼	personne debout%e2%80%af peau moyennement claire
+🧍🏽	personne debout%e2%80%af peau legerement mate
+🧍🏾	personne debout%e2%80%af peau mate
+🧍🏿	personne debout%e2%80%af peau foncee
+🧍‍♂️	homme debout
+🧍🏻‍♂️	homme debout%e2%80%af peau claire
+🧍🏼‍♂️	homme debout%e2%80%af peau moyennement claire
+🧍🏽‍♂️	homme debout%e2%80%af peau legerement mate
+🧍🏾‍♂️	homme debout%e2%80%af peau mate
+🧍🏿‍♂️	homme debout%e2%80%af peau foncee
+🧍‍♀️	femme debout
+🧍🏻‍♀️	femme debout%e2%80%af peau claire
+🧍🏼‍♀️	femme debout%e2%80%af peau moyennement claire
+🧍🏽‍♀️	femme debout%e2%80%af peau legerement mate
+🧍🏾‍♀️	femme debout%e2%80%af peau mate
+🧍🏿‍♀️	femme debout%e2%80%af peau foncee
+🧎	personne a genoux
+🧎🏻	personne a genoux%e2%80%af peau claire
+🧎🏼	personne a genoux%e2%80%af peau moyennement claire
+🧎🏽	personne a genoux%e2%80%af peau legerement mate
+🧎🏾	personne a genoux%e2%80%af peau mate
+🧎🏿	personne a genoux%e2%80%af peau foncee
+🧎‍♂️	homme a genoux
+🧎🏻‍♂️	homme a genoux%e2%80%af peau claire
+🧎🏼‍♂️	homme a genoux%e2%80%af peau moyennement claire
+🧎🏽‍♂️	homme a genoux%e2%80%af peau legerement mate
+🧎🏾‍♂️	homme a genoux%e2%80%af peau mate
+🧎🏿‍♂️	homme a genoux%e2%80%af peau foncee
+🧎‍♀️	femme a genoux
+🧎🏻‍♀️	femme a genoux%e2%80%af peau claire
+🧎🏼‍♀️	femme a genoux%e2%80%af peau moyennement claire
+🧎🏽‍♀️	femme a genoux%e2%80%af peau legerement mate
+🧎🏾‍♀️	femme a genoux%e2%80%af peau mate
+🧎🏿‍♀️	femme a genoux%e2%80%af peau foncee
+🧑‍🦯	personne avec une canne blanche
+🧑🏻‍🦯	personne avec une canne blanche%e2%80%af peau claire
+🧑🏼‍🦯	personne avec une canne blanche%e2%80%af peau moyennement claire
+🧑🏽‍🦯	personne avec une canne blanche%e2%80%af peau legerement mate
+🧑🏾‍🦯	personne avec une canne blanche%e2%80%af peau mate
+🧑🏿‍🦯	personne avec une canne blanche%e2%80%af peau foncee
+👨‍🦯	homme avec canne blanche
+👨🏻‍🦯	homme avec canne blanche%e2%80%af peau claire
+👨🏼‍🦯	homme avec canne blanche%e2%80%af peau moyennement claire
+👨🏽‍🦯	homme avec canne blanche%e2%80%af peau legerement mate
+👨🏾‍🦯	homme avec canne blanche%e2%80%af peau mate
+👨🏿‍🦯	homme avec canne blanche%e2%80%af peau foncee
+👩‍🦯	femme avec canne blanche
+👩🏻‍🦯	femme avec canne blanche%e2%80%af peau claire
+👩🏼‍🦯	femme avec canne blanche%e2%80%af peau moyennement claire
+👩🏽‍🦯	femme avec canne blanche%e2%80%af peau legerement mate
+👩🏾‍🦯	femme avec canne blanche%e2%80%af peau mate
+👩🏿‍🦯	femme avec canne blanche%e2%80%af peau foncee
+🧑‍🦼	personne en fauteuil motorise
+🧑🏻‍🦼	personne en fauteuil motorise%e2%80%af peau claire
+🧑🏼‍🦼	personne en fauteuil motorise%e2%80%af peau moyennement claire
+🧑🏽‍🦼	personne en fauteuil motorise%e2%80%af peau legerement mate
+🧑🏾‍🦼	personne en fauteuil motorise%e2%80%af peau mate
+🧑🏿‍🦼	personne en fauteuil motorise%e2%80%af peau foncee
+👨‍🦼	homme en fauteuil motorise
+👨🏻‍🦼	homme en fauteuil motorise%e2%80%af peau claire
+👨🏼‍🦼	homme en fauteuil motorise%e2%80%af peau moyennement claire
+👨🏽‍🦼	homme en fauteuil motorise%e2%80%af peau legerement mate
+👨🏾‍🦼	homme en fauteuil motorise%e2%80%af peau mate
+👨🏿‍🦼	homme en fauteuil motorise%e2%80%af peau foncee
+👩‍🦼	femme en fauteuil motorise
+👩🏻‍🦼	femme en fauteuil motorise%e2%80%af peau claire
+👩🏼‍🦼	femme en fauteuil motorise%e2%80%af peau moyennement claire
+👩🏽‍🦼	femme en fauteuil motorise%e2%80%af peau legerement mate
+👩🏾‍🦼	femme en fauteuil motorise%e2%80%af peau mate
+👩🏿‍🦼	femme en fauteuil motorise%e2%80%af peau foncee
+🧑‍🦽	personne en fauteuil roulant manuel
+🧑🏻‍🦽	personne en fauteuil roulant manuel%e2%80%af peau claire
+🧑🏼‍🦽	personne en fauteuil roulant manuel%e2%80%af peau moyennement claire
+🧑🏽‍🦽	personne en fauteuil roulant manuel%e2%80%af peau legerement mate
+🧑🏾‍🦽	personne en fauteuil roulant manuel%e2%80%af peau mate
+🧑🏿‍🦽	personne en fauteuil roulant manuel%e2%80%af peau foncee
+👨‍🦽	homme en fauteuil roulant manuel
+👨🏻‍🦽	homme en fauteuil roulant manuel%e2%80%af peau claire
+👨🏼‍🦽	homme en fauteuil roulant manuel%e2%80%af peau moyennement claire
+👨🏽‍🦽	homme en fauteuil roulant manuel%e2%80%af peau legerement mate
+👨🏾‍🦽	homme en fauteuil roulant manuel%e2%80%af peau mate
+👨🏿‍🦽	homme en fauteuil roulant manuel%e2%80%af peau foncee
+👩‍🦽	femme en fauteuil roulant manuel
+👩🏻‍🦽	femme en fauteuil roulant manuel%e2%80%af peau claire
+👩🏼‍🦽	femme en fauteuil roulant manuel%e2%80%af peau moyennement claire
+👩🏽‍🦽	femme en fauteuil roulant manuel%e2%80%af peau legerement mate
+👩🏾‍🦽	femme en fauteuil roulant manuel%e2%80%af peau mate
+👩🏿‍🦽	femme en fauteuil roulant manuel%e2%80%af peau foncee
+🏃	course a pied
+🏃🏻	course a pied peau 1
+🏃🏼	course a pied peau 2
+🏃🏽	course a pied peau 3
+🏃🏾	course a pied peau 4
+🏃🏿	course a pied peau 5
+🏃‍♂️	joggeur
+🏃🏻‍♂️	joggeur peau 1
+🏃🏼‍♂️	joggeur peau 2
+🏃🏽‍♂️	joggeur peau 3
+🏃🏾‍♂️	joggeur peau 4
+🏃🏿‍♂️	joggeur peau 5
+🏃‍♀️	joggeuse
+🏃🏻‍♀️	joggeuse peau 1
+🏃🏼‍♀️	joggeuse peau 2
+🏃🏽‍♀️	joggeuse peau 3
+🏃🏾‍♀️	joggeuse peau 4
+🏃🏿‍♀️	joggeuse peau 5
+💃	danseuse
+💃🏻	danseuse peau 1
+💃🏼	danseuse peau 2
+💃🏽	danseuse peau 3
+💃🏾	danseuse peau 4
+💃🏿	danseuse peau 5
+🕺	danseur
+🕺🏻	danseur peau 1
+🕺🏼	danseur peau 2
+🕺🏽	danseur peau 3
+🕺🏾	danseur peau 4
+🕺🏿	danseur peau 5
+🕴️	homme daffaires en levitation
+🕴🏻	homme daffaires en levitation peau 1
+🕴🏼	homme daffaires en levitation peau 2
+🕴🏽	homme daffaires en levitation peau 3
+🕴🏾	homme daffaires en levitation peau 4
+🕴🏿	homme daffaires en levitation peau 5
+👯	personnes qui font la fete
+👯‍♂️	fetards
+👯‍♀️	fetardes
+🧖	personne au spa
+🧖🏻	personne au spa peau 1
+🧖🏼	personne au spa peau 2
+🧖🏽	personne au spa peau 3
+🧖🏾	personne au spa peau 4
+🧖🏿	personne au spa peau 5
+🧖‍♂️	homme au spa
+🧖🏻‍♂️	homme au spa peau 1
+🧖🏼‍♂️	homme au spa peau 2
+🧖🏽‍♂️	homme au spa peau 3
+🧖🏾‍♂️	homme au spa peau 4
+🧖🏿‍♂️	homme au spa peau 5
+🧖‍♀️	femme au spa
+🧖🏻‍♀️	femme au spa peau 1
+🧖🏼‍♀️	femme au spa peau 2
+🧖🏽‍♀️	femme au spa peau 3
+🧖🏾‍♀️	femme au spa peau 4
+🧖🏿‍♀️	femme au spa peau 5
+🧗	personne qui fait de lescalade
+🧗🏻	personne qui fait de lescalade peau 1
+🧗🏼	personne qui fait de lescalade peau 2
+🧗🏽	personne qui fait de lescalade peau 3
+🧗🏾	personne qui fait de lescalade peau 4
+🧗🏿	personne qui fait de lescalade peau 5
+🧗‍♂️	homme qui fait de lescalade
+🧗🏻‍♂️	homme qui fait de lescalade peau 1
+🧗🏼‍♂️	homme qui fait de lescalade peau 2
+🧗🏽‍♂️	homme qui fait de lescalade peau 3
+🧗🏾‍♂️	homme qui fait de lescalade peau 4
+🧗🏿‍♂️	homme qui fait de lescalade peau 5
+🧗‍♀️	femme qui fait de lescalade
+🧗🏻‍♀️	femme qui fait de lescalade peau 1
+🧗🏼‍♀️	femme qui fait de lescalade peau 2
+🧗🏽‍♀️	femme qui fait de lescalade peau 3
+🧗🏾‍♀️	femme qui fait de lescalade peau 4
+🧗🏿‍♀️	femme qui fait de lescalade peau 5
+🤺	escrimeur
+🏇	course hippique
+🏇🏻	course hippique peau 1
+🏇🏼	course hippique peau 2
+🏇🏽	course hippique peau 3
+🏇🏾	course hippique peau 4
+🏇🏿	course hippique peau 5
+⛷️	skieur
+🏂	snowboard
+🏂🏻	snowboard peau 1
+🏂🏼	snowboard peau 2
+🏂🏽	snowboard peau 3
+🏂🏾	snowboard peau 4
+🏂🏿	snowboard peau 5
+🏌️	joueur de golf
+🏌🏻	joueur de golf peau 1
+🏌🏼	joueur de golf peau 2
+🏌🏽	joueur de golf peau 3
+🏌🏾	joueur de golf peau 4
+🏌🏿	joueur de golf peau 5
+🏌️‍♂️	golfeur
+🏌🏻‍♂️	golfeur peau 1
+🏌🏼‍♂️	golfeur peau 2
+🏌🏽‍♂️	golfeur peau 3
+🏌🏾‍♂️	golfeur peau 4
+🏌🏿‍♂️	golfeur peau 5
+🏌️‍♀️	golfeuse
+🏌🏻‍♀️	golfeuse peau 1
+🏌🏼‍♀️	golfeuse peau 2
+🏌🏽‍♀️	golfeuse peau 3
+🏌🏾‍♀️	golfeuse peau 4
+🏌🏿‍♀️	golfeuse peau 5
+🏄	surf
+🏄🏻	surf peau 1
+🏄🏼	surf peau 2
+🏄🏽	surf peau 3
+🏄🏾	surf peau 4
+🏄🏿	surf peau 5
+🏄‍♂️	surfeur
+🏄🏻‍♂️	surfeur peau 1
+🏄🏼‍♂️	surfeur peau 2
+🏄🏽‍♂️	surfeur peau 3
+🏄🏾‍♂️	surfeur peau 4
+🏄🏿‍♂️	surfeur peau 5
+🏄‍♀️	surfeuse
+🏄🏻‍♀️	surfeuse peau 1
+🏄🏼‍♀️	surfeuse peau 2
+🏄🏽‍♀️	surfeuse peau 3
+🏄🏾‍♀️	surfeuse peau 4
+🏄🏿‍♀️	surfeuse peau 5
+🚣	barque
+🚣🏻	barque peau 1
+🚣🏼	barque peau 2
+🚣🏽	barque peau 3
+🚣🏾	barque peau 4
+🚣🏿	barque peau 5
+🚣‍♂️	rameur dans une barque
+🚣🏻‍♂️	rameur dans une barque peau 1
+🚣🏼‍♂️	rameur dans une barque peau 2
+🚣🏽‍♂️	rameur dans une barque peau 3
+🚣🏾‍♂️	rameur dans une barque peau 4
+🚣🏿‍♂️	rameur dans une barque peau 5
+🚣‍♀️	rameuse dans une barque
+🚣🏻‍♀️	rameuse dans une barque peau 1
+🚣🏼‍♀️	rameuse dans une barque peau 2
+🚣🏽‍♀️	rameuse dans une barque peau 3
+🚣🏾‍♀️	rameuse dans une barque peau 4
+🚣🏿‍♀️	rameuse dans une barque peau 5
+🏊	nage
+🏊🏻	nage peau 1
+🏊🏼	nage peau 2
+🏊🏽	nage peau 3
+🏊🏾	nage peau 4
+🏊🏿	nage peau 5
+🏊‍♂️	nageur
+🏊🏻‍♂️	nageur peau 1
+🏊🏼‍♂️	nageur peau 2
+🏊🏽‍♂️	nageur peau 3
+🏊🏾‍♂️	nageur peau 4
+🏊🏿‍♂️	nageur peau 5
+🏊‍♀️	nageuse
+🏊🏻‍♀️	nageuse peau 1
+🏊🏼‍♀️	nageuse peau 2
+🏊🏽‍♀️	nageuse peau 3
+🏊🏾‍♀️	nageuse peau 4
+🏊🏿‍♀️	nageuse peau 5
+⛹️	basketteur
+⛹🏻	basketteur peau 1
+⛹🏼	basketteur peau 2
+⛹🏽	basketteur peau 3
+⛹🏾	basketteur peau 4
+⛹🏿	basketteur peau 5
+⛹️‍♂️	homme avec ballon
+⛹🏻‍♂️	homme avec ballon peau 1
+⛹🏼‍♂️	homme avec ballon peau 2
+⛹🏽‍♂️	homme avec ballon peau 3
+⛹🏾‍♂️	homme avec ballon peau 4
+⛹🏿‍♂️	homme avec ballon peau 5
+⛹️‍♀️	femme avec ballon
+⛹🏻‍♀️	femme avec ballon peau 1
+⛹🏼‍♀️	femme avec ballon peau 2
+⛹🏽‍♀️	femme avec ballon peau 3
+⛹🏾‍♀️	femme avec ballon peau 4
+⛹🏿‍♀️	femme avec ballon peau 5
+🏋️	halterophile
+🏋🏻	halterophile peau 1
+🏋🏼	halterophile peau 2
+🏋🏽	halterophile peau 3
+🏋🏾	halterophile peau 4
+🏋🏿	halterophile peau 5
+🏋️‍♂️	homme halterophile
+🏋🏻‍♂️	homme halterophile peau 1
+🏋🏼‍♂️	homme halterophile peau 2
+🏋🏽‍♂️	homme halterophile peau 3
+🏋🏾‍♂️	homme halterophile peau 4
+🏋🏿‍♂️	homme halterophile peau 5
+🏋️‍♀️	femme halterophile
+🏋🏻‍♀️	femme halterophile peau 1
+🏋🏼‍♀️	femme halterophile peau 2
+🏋🏽‍♀️	femme halterophile peau 3
+🏋🏾‍♀️	femme halterophile peau 4
+🏋🏿‍♀️	femme halterophile peau 5
+🚴	cycliste
+🚴🏻	cycliste peau 1
+🚴🏼	cycliste peau 2
+🚴🏽	cycliste peau 3
+🚴🏾	cycliste peau 4
+🚴🏿	cycliste peau 5
+🚴‍♂️	cycliste homme
+🚴🏻‍♂️	cycliste homme peau 1
+🚴🏼‍♂️	cycliste homme peau 2
+🚴🏽‍♂️	cycliste homme peau 3
+🚴🏾‍♂️	cycliste homme peau 4
+🚴🏿‍♂️	cycliste homme peau 5
+🚴‍♀️	cycliste femme
+🚴🏻‍♀️	cycliste femme peau 1
+🚴🏼‍♀️	cycliste femme peau 2
+🚴🏽‍♀️	cycliste femme peau 3
+🚴🏾‍♀️	cycliste femme peau 4
+🚴🏿‍♀️	cycliste femme peau 5
+🚵	vttiste
+🚵🏻	vttiste peau 1
+🚵🏼	vttiste peau 2
+🚵🏽	vttiste peau 3
+🚵🏾	vttiste peau 4
+🚵🏿	vttiste peau 5
+🚵‍♂️	homme en vtt
+🚵🏻‍♂️	homme en vtt peau 1
+🚵🏼‍♂️	homme en vtt peau 2
+🚵🏽‍♂️	homme en vtt peau 3
+🚵🏾‍♂️	homme en vtt peau 4
+🚵🏿‍♂️	homme en vtt peau 5
+🚵‍♀️	femme en vtt
+🚵🏻‍♀️	femme en vtt peau 1
+🚵🏼‍♀️	femme en vtt peau 2
+🚵🏽‍♀️	femme en vtt peau 3
+🚵🏾‍♀️	femme en vtt peau 4
+🚵🏿‍♀️	femme en vtt peau 5
+🤸	roue
+🤸🏻	roue peau 1
+🤸🏼	roue peau 2
+🤸🏽	roue peau 3
+🤸🏾	roue peau 4
+🤸🏿	roue peau 5
+🤸‍♂️	homme faisant la roue
+🤸🏻‍♂️	homme faisant la roue peau 1
+🤸🏼‍♂️	homme faisant la roue peau 2
+🤸🏽‍♂️	homme faisant la roue peau 3
+🤸🏾‍♂️	homme faisant la roue peau 4
+🤸🏿‍♂️	homme faisant la roue peau 5
+🤸‍♀️	femme faisant la roue
+🤸🏻‍♀️	femme faisant la roue peau 1
+🤸🏼‍♀️	femme faisant la roue peau 2
+🤸🏽‍♀️	femme faisant la roue peau 3
+🤸🏾‍♀️	femme faisant la roue peau 4
+🤸🏿‍♀️	femme faisant la roue peau 5
+🤼	personnes qui font de la lutte
+🤼‍♂️	lutteurs
+🤼‍♀️	lutteuses
+🤽	water polo
+🤽🏻	water polo peau 1
+🤽🏼	water polo peau 2
+🤽🏽	water polo peau 3
+🤽🏾	water polo peau 4
+🤽🏿	water polo peau 5
+🤽‍♂️	joueur de water polo
+🤽🏻‍♂️	joueur de water polo peau 1
+🤽🏼‍♂️	joueur de water polo peau 2
+🤽🏽‍♂️	joueur de water polo peau 3
+🤽🏾‍♂️	joueur de water polo peau 4
+🤽🏿‍♂️	joueur de water polo peau 5
+🤽‍♀️	joueuse de water polo
+🤽🏻‍♀️	joueuse de water polo peau 1
+🤽🏼‍♀️	joueuse de water polo peau 2
+🤽🏽‍♀️	joueuse de water polo peau 3
+🤽🏾‍♀️	joueuse de water polo peau 4
+🤽🏿‍♀️	joueuse de water polo peau 5
+🤾	handball
+🤾🏻	handball peau 1
+🤾🏼	handball peau 2
+🤾🏽	handball peau 3
+🤾🏾	handball peau 4
+🤾🏿	handball peau 5
+🤾‍♂️	handballeur
+🤾🏻‍♂️	handballeur peau 1
+🤾🏼‍♂️	handballeur peau 2
+🤾🏽‍♂️	handballeur peau 3
+🤾🏾‍♂️	handballeur peau 4
+🤾🏿‍♂️	handballeur peau 5
+🤾‍♀️	handballeuse
+🤾🏻‍♀️	handballeuse peau 1
+🤾🏼‍♀️	handballeuse peau 2
+🤾🏽‍♀️	handballeuse peau 3
+🤾🏾‍♀️	handballeuse peau 4
+🤾🏿‍♀️	handballeuse peau 5
+🤹	personne qui jongle
+🤹🏻	personne qui jongle peau 1
+🤹🏼	personne qui jongle peau 2
+🤹🏽	personne qui jongle peau 3
+🤹🏾	personne qui jongle peau 4
+🤹🏿	personne qui jongle peau 5
+🤹‍♂️	jongleur
+🤹🏻‍♂️	jongleur peau 1
+🤹🏼‍♂️	jongleur peau 2
+🤹🏽‍♂️	jongleur peau 3
+🤹🏾‍♂️	jongleur peau 4
+🤹🏿‍♂️	jongleur peau 5
+🤹‍♀️	jongleuse
+🤹🏻‍♀️	jongleuse peau 1
+🤹🏼‍♀️	jongleuse peau 2
+🤹🏽‍♀️	jongleuse peau 3
+🤹🏾‍♀️	jongleuse peau 4
+🤹🏿‍♀️	jongleuse peau 5
+🧘	personne en position du lotus
+🧘🏻	personne en position du lotus peau 1
+🧘🏼	personne en position du lotus peau 2
+🧘🏽	personne en position du lotus peau 3
+🧘🏾	personne en position du lotus peau 4
+🧘🏿	personne en position du lotus peau 5
+🧘‍♂️	homme en position du lotus
+🧘🏻‍♂️	homme en position du lotus peau 1
+🧘🏼‍♂️	homme en position du lotus peau 2
+🧘🏽‍♂️	homme en position du lotus peau 3
+🧘🏾‍♂️	homme en position du lotus peau 4
+🧘🏿‍♂️	homme en position du lotus peau 5
+🧘‍♀️	femme en position du lotus
+🧘🏻‍♀️	femme en position du lotus peau 1
+🧘🏼‍♀️	femme en position du lotus peau 2
+🧘🏽‍♀️	femme en position du lotus peau 3
+🧘🏾‍♀️	femme en position du lotus peau 4
+🧘🏿‍♀️	femme en position du lotus peau 5
+🛀	personne au bain
+🛀🏻	personne au bain peau 1
+🛀🏼	personne au bain peau 2
+🛀🏽	personne au bain peau 3
+🛀🏾	personne au bain peau 4
+🛀🏿	personne au bain peau 5
+🛌	personne au lit
+🛌🏻	personne au lit peau 1
+🛌🏼	personne au lit peau 2
+🛌🏽	personne au lit peau 3
+🛌🏾	personne au lit peau 4
+🛌🏿	personne au lit peau 5
+🧑‍🤝‍🧑	deux personnes se tenant la main
+🧑🏻‍🤝‍🧑🏻	deux personnes se tenant la main%e2%80%af peau claire
+🧑🏻‍🤝‍🧑🏼	deux personnes se tenant la main%e2%80%af peau claire et peau moyennement claire
+🧑🏻‍🤝‍🧑🏽	deux personnes se tenant la main%e2%80%af peau claire et peau legerement mate
+🧑🏻‍🤝‍🧑🏾	deux personnes se tenant la main%e2%80%af peau claire et peau mate
+🧑🏻‍🤝‍🧑🏿	deux personnes se tenant la main%e2%80%af peau claire et peau foncee
+🧑🏼‍🤝‍🧑🏻	deux personnes se tenant la main%e2%80%af peau moyennement claire et peau claire
+🧑🏼‍🤝‍🧑🏼	deux personnes se tenant la main%e2%80%af peau moyennement claire
+🧑🏼‍🤝‍🧑🏽	deux personnes se tenant la main%e2%80%af peau moyennement claire et peau legerement mate
+🧑🏼‍🤝‍🧑🏾	deux personnes se tenant la main%e2%80%af peau moyennement claire et peau mate
+🧑🏼‍🤝‍🧑🏿	deux personnes se tenant la main%e2%80%af peau moyennement claire et peau foncee
+🧑🏽‍🤝‍🧑🏻	deux personnes se tenant la main%e2%80%af peau legerement mate et peau claire
+🧑🏽‍🤝‍🧑🏼	deux personnes se tenant la main%e2%80%af peau legerement mate et peau moyennement claire
+🧑🏽‍🤝‍🧑🏽	deux personnes se tenant la main%e2%80%af peau legerement mate
+🧑🏽‍🤝‍🧑🏾	deux personnes se tenant la main%e2%80%af peau legerement mate et peau mate
+🧑🏽‍🤝‍🧑🏿	deux personnes se tenant la main%e2%80%af peau legerement mate et peau foncee
+🧑🏾‍🤝‍🧑🏻	deux personnes se tenant la main%e2%80%af peau mate et peau claire
+🧑🏾‍🤝‍🧑🏼	deux personnes se tenant la main%e2%80%af peau mate et peau moyennement claire
+🧑🏾‍🤝‍🧑🏽	deux personnes se tenant la main%e2%80%af peau mate et peau legerement mate
+🧑🏾‍🤝‍🧑🏾	deux personnes se tenant la main%e2%80%af peau mate
+🧑🏾‍🤝‍🧑🏿	deux personnes se tenant la main%e2%80%af peau mate et peau foncee
+🧑🏿‍🤝‍🧑🏻	deux personnes se tenant la main%e2%80%af peau foncee et peau claire
+🧑🏿‍🤝‍🧑🏼	deux personnes se tenant la main%e2%80%af peau foncee et peau moyennement claire
+🧑🏿‍🤝‍🧑🏽	deux personnes se tenant la main%e2%80%af peau foncee et peau legerement mate
+🧑🏿‍🤝‍🧑🏾	deux personnes se tenant la main%e2%80%af peau foncee et peau mate
+🧑🏿‍🤝‍🧑🏿	deux personnes se tenant la main%e2%80%af peau foncee
+👭	deux femmes
+👭🏻	deux femmes se tenant la main%e2%80%af peau claire
+👩🏻‍🤝‍👩🏼	deux femmes se tenant la main%e2%80%af peau claire et peau moyennement claire
+👩🏻‍🤝‍👩🏽	deux femmes se tenant la main%e2%80%af peau claire et peau legerement mate
+👩🏻‍🤝‍👩🏾	deux femmes se tenant la main%e2%80%af peau claire et peau mate
+👩🏻‍🤝‍👩🏿	deux femmes se tenant la main%e2%80%af peau claire et peau foncee
+👩🏼‍🤝‍👩🏻	deux femmes se tenant la main%e2%80%af peau moyennement claire et peau claire
+👭🏼	deux femmes se tenant la main%e2%80%af peau moyennement claire
+👩🏼‍🤝‍👩🏽	deux femmes se tenant la main%e2%80%af peau moyennement claire et peau legerement mate
+👩🏼‍🤝‍👩🏾	deux femmes se tenant la main%e2%80%af peau moyennement claire et peau mate
+👩🏼‍🤝‍👩🏿	deux femmes se tenant la main%e2%80%af peau moyennement claire et peau foncee
+👩🏽‍🤝‍👩🏻	deux femmes se tenant la main%e2%80%af peau legerement mate et peau claire
+👩🏽‍🤝‍👩🏼	deux femmes se tenant la main%e2%80%af peau legerement mate et peau moyennement claire
+👭🏽	deux femmes se tenant la main%e2%80%af peau legerement mate
+👩🏽‍🤝‍👩🏾	deux femmes se tenant la main%e2%80%af peau legerement mate et peau mate
+👩🏽‍🤝‍👩🏿	deux femmes se tenant la main%e2%80%af peau legerement mate et peau foncee
+👩🏾‍🤝‍👩🏻	deux femmes se tenant la main%e2%80%af peau mate et peau claire
+👩🏾‍🤝‍👩🏼	deux femmes se tenant la main%e2%80%af peau mate et peau moyennement claire
+👩🏾‍🤝‍👩🏽	deux femmes se tenant la main%e2%80%af peau mate et peau legerement mate
+👭🏾	deux femmes se tenant la main%e2%80%af peau mate
+👩🏾‍🤝‍👩🏿	deux femmes se tenant la main%e2%80%af peau mate et peau foncee
+👩🏿‍🤝‍👩🏻	deux femmes se tenant la main%e2%80%af peau foncee et peau claire
+👩🏿‍🤝‍👩🏼	deux femmes se tenant la main%e2%80%af peau foncee et peau moyennement claire
+👩🏿‍🤝‍👩🏽	deux femmes se tenant la main%e2%80%af peau foncee et peau legerement mate
+👩🏿‍🤝‍👩🏾	deux femmes se tenant la main%e2%80%af peau foncee et peau mate
+👭🏿	deux femmes se tenant la main%e2%80%af peau foncee
+👫	homme et femme
+👫🏻	femme et homme se tenant la main%e2%80%af peau claire
+👩🏻‍🤝‍👨🏼	femme et homme se tenant la main%e2%80%af peau claire et peau moyennement claire
+👩🏻‍🤝‍👨🏽	femme et homme se tenant la main%e2%80%af peau claire et peau legerement mate
+👩🏻‍🤝‍👨🏾	femme et homme se tenant la main%e2%80%af peau claire et peau mate
+👩🏻‍🤝‍👨🏿	femme et homme se tenant la main%e2%80%af peau claire et peau foncee
+👩🏼‍🤝‍👨🏻	femme et homme se tenant la main%e2%80%af peau moyennement claire et peau claire
+👫🏼	femme et homme se tenant la main%e2%80%af peau moyennement claire
+👩🏼‍🤝‍👨🏽	femme et homme se tenant la main%e2%80%af peau moyennement claire et peau legerement mate
+👩🏼‍🤝‍👨🏾	femme et homme se tenant la main%e2%80%af peau moyennement claire et peau mate
+👩🏼‍🤝‍👨🏿	femme et homme se tenant la main%e2%80%af peau moyennement claire et peau foncee
+👩🏽‍🤝‍👨🏻	femme et homme se tenant la main%e2%80%af peau legerement mate et peau claire
+👩🏽‍🤝‍👨🏼	femme et homme se tenant la main%e2%80%af peau legerement mate et peau moyennement claire
+👫🏽	femme et homme se tenant la main%e2%80%af peau legerement mate
+👩🏽‍🤝‍👨🏾	femme et homme se tenant la main%e2%80%af peau legerement mate et peau mate
+👩🏽‍🤝‍👨🏿	femme et homme se tenant la main%e2%80%af peau legerement mate et peau foncee
+👩🏾‍🤝‍👨🏻	femme et homme se tenant la main%e2%80%af peau mate et peau claire
+👩🏾‍🤝‍👨🏼	femme et homme se tenant la main%e2%80%af peau mate et peau moyennement claire
+👩🏾‍🤝‍👨🏽	femme et homme se tenant la main%e2%80%af peau mate et peau legerement mate
+👫🏾	femme et homme se tenant la main%e2%80%af peau mate
+👩🏾‍🤝‍👨🏿	femme et homme se tenant la main%e2%80%af peau mate et peau foncee
+👩🏿‍🤝‍👨🏻	femme et homme se tenant la main%e2%80%af peau foncee et peau claire
+👩🏿‍🤝‍👨🏼	femme et homme se tenant la main%e2%80%af peau foncee et peau moyennement claire
+👩🏿‍🤝‍👨🏽	femme et homme se tenant la main%e2%80%af peau foncee et peau legerement mate
+👩🏿‍🤝‍👨🏾	femme et homme se tenant la main%e2%80%af peau foncee et peau mate
+👫🏿	femme et homme se tenant la main%e2%80%af peau foncee
+👬	deux hommes
+👬🏻	deux hommes se tenant la main%e2%80%af peau claire
+👨🏻‍🤝‍👨🏼	deux hommes se tenant la main%e2%80%af peau claire et peau moyennement claire
+👨🏻‍🤝‍👨🏽	deux hommes se tenant la main%e2%80%af peau claire et peau legerement mate
+👨🏻‍🤝‍👨🏾	deux hommes se tenant la main%e2%80%af peau claire et peau mate
+👨🏻‍🤝‍👨🏿	deux hommes se tenant la main%e2%80%af peau claire et peau foncee
+👨🏼‍🤝‍👨🏻	deux hommes se tenant la main%e2%80%af peau moyennement claire et peau claire
+👬🏼	deux hommes se tenant la main%e2%80%af peau moyennement claire
+👨🏼‍🤝‍👨🏽	deux hommes se tenant la main%e2%80%af peau moyennement claire et peau legerement mate
+👨🏼‍🤝‍👨🏾	deux hommes se tenant la main%e2%80%af peau moyennement claire et peau mate
+👨🏼‍🤝‍👨🏿	deux hommes se tenant la main%e2%80%af peau moyennement claire et peau foncee
+👨🏽‍🤝‍👨🏻	deux hommes se tenant la main%e2%80%af peau legerement mate et peau claire
+👨🏽‍🤝‍👨🏼	deux hommes se tenant la main%e2%80%af peau legerement mate et peau moyennement claire
+👬🏽	deux hommes se tenant la main%e2%80%af peau legerement mate
+👨🏽‍🤝‍👨🏾	deux hommes se tenant la main%e2%80%af peau legerement mate et peau mate
+👨🏽‍🤝‍👨🏿	deux hommes se tenant la main%e2%80%af peau legerement mate et peau foncee
+👨🏾‍🤝‍👨🏻	deux hommes se tenant la main%e2%80%af peau mate et peau claire
+👨🏾‍🤝‍👨🏼	deux hommes se tenant la main%e2%80%af peau mate et peau moyennement claire
+👨🏾‍🤝‍👨🏽	deux hommes se tenant la main%e2%80%af peau mate et peau legerement mate
+👬🏾	deux hommes se tenant la main%e2%80%af peau mate
+👨🏾‍🤝‍👨🏿	deux hommes se tenant la main%e2%80%af peau mate et peau foncee
+👨🏿‍🤝‍👨🏻	deux hommes se tenant la main%e2%80%af peau foncee et peau claire
+👨🏿‍🤝‍👨🏼	deux hommes se tenant la main%e2%80%af peau foncee et peau moyennement claire
+👨🏿‍🤝‍👨🏽	deux hommes se tenant la main%e2%80%af peau foncee et peau legerement mate
+👨🏿‍🤝‍👨🏾	deux hommes se tenant la main%e2%80%af peau foncee et peau mate
+👬🏿	deux hommes se tenant la main%e2%80%af peau foncee
+💏	bisou
+👩‍❤️‍💋‍👨	bisou homme femme
+👨‍❤️‍💋‍👨	bisou homme homme
+👩‍❤️‍💋‍👩	bisou femme femme
+💑	couple avec coeur
+👩‍❤️‍👨	couple avec coeur homme femme
+👨‍❤️‍👨	couple avec coeur homme homme
+👩‍❤️‍👩	couple avec coeur femme femme
+👪	famille emoji
+👨‍👩‍👦	famille homme femme garcon
+👨‍👩‍👧	famille homme femme fille
+👨‍👩‍👧‍👦	famille homme femme fille garcon
+👨‍👩‍👦‍👦	famille homme femme garcon garcon
+👨‍👩‍👧‍👧	famille homme femme fille fille
+👨‍👨‍👦	famille homme homme garcon
+👨‍👨‍👧	famille homme homme fille
+👨‍👨‍👧‍👦	famille homme homme fille garcon
+👨‍👨‍👦‍👦	famille homme homme garcon garcon
+👨‍👨‍👧‍👧	famille homme homme fille fille
+👩‍👩‍👦	famille femme femme garcon
+👩‍👩‍👧	famille femme femme fille
+👩‍👩‍👧‍👦	famille femme femme fille garcon
+👩‍👩‍👦‍👦	famille femme femme garcon garcon
+👩‍👩‍👧‍👧	famille femme femme fille fille
+👨‍👦	famille homme garcon
+👨‍👦‍👦	famille homme garcon garcon
+👨‍👧	famille homme fille
+👨‍👧‍👦	famille homme fille garcon
+👨‍👧‍👧	famille homme fille fille
+👩‍👦	famille femme garcon
+👩‍👦‍👦	famille femme garcon garcon
+👩‍👧	famille femme fille
+👩‍👧‍👦	famille femme fille garcon
+👩‍👧‍👧	famille femme fille fille
+🗣️	tete qui parle
+👤	silhouette de buste
+👥	silhouettes de bustes
+🫂	etreinte
+👣	traces de pas
+🏻	peau 1 emoji
+🏼	peau 2 emoji
+🏽	peau 3 emoji
+🏾	peau 4 emoji
+🏿	peau 5 emoji
+🦰	cheveux roux
+🦱	cheveux boucles
+🦳	cheveux blancs
+🦲	tete chauve
+🐵	tete de singe
+🐒	singe
+🦍	gorille
+🦧	orang outan
+🐶	tete de chien
+🐕	chien
+🦮	chien guide
+🐕‍🦺	chien dassistance
+🐩	caniche
+🐺	loup
+🦊	renard
+🦝	raton laveur
+🐱	tete de chat
+🐈	chat
+🐈‍⬛	chat noir
+🦁	tete de lion
+🐯	tete de tigre
+🐅	tigre
+🐆	leopard
+🐴	tete de cheval
+🐎	cheval
+🦄	tete de licorne
+🦓	zebre
+🦌	cerf
+🦬	bison 2
+🐮	tete de vache
+🐂	boeuf
+🐃	buffle
+🐄	vache
+🐷	tete de cochon
+🐖	cochon
+🐗	sanglier
+🐽	groin
+🐏	belier
+🐑	mouton
+🐐	chevre
+🐪	dromadaire
+🐫	chameau
+🦙	lama 2
+🦒	girafe
+🐘	elephant
+🦣	mammouth
+🦏	rhinoceros
+🦛	hippopotame
+🐭	tete de souris
+🐁	souris
+🐀	rat
+🐹	hamster
+🐰	tete de lapin
+🐇	lapin
+🐿️	ecureuil
+🦫	castor
+🦔	herisson
+🦇	chauve souris
+🐻	ours
+🐻‍❄️	ours polaire
+🐨	koala
+🐼	panda
+🦥	paresseux
+🦦	loutre
+🦨	mouffette
+🦘	kangourou
+🦡	blaireau
+🐾	empreintes
+🦃	dindon
+🐔	poule
+🐓	coq
+🐣	poussin qui eclot
+🐤	tete de poussin
+🐥	poussin
+🐦	oiseau
+🐧	pingouin
+🕊️	colombe
+🦅	aigle
+🦆	canard
+🦢	cygne
+🦉	chouette
+🦤	dodo 2
+🪶	plume
+🦩	flamant
+🦚	paon
+🦜	perroquet
+🐸	grenouille
+🐊	crocodile
+🐢	tortue
+🦎	lezard
+🐍	serpent
+🐲	tete de dragon
+🐉	dragon
+🦕	sauropode
+🦖	t rex
+🐳	baleine avec event
+🐋	baleine
+🐬	dauphin
+🦭	phoque
+🐟	poisson
+🐠	poisson tropical
+🐡	poisson lune
+🦈	requin
+🐙	pieuvre
+🐚	coquille
+🐌	escargot
+🦋	papillon
+🐛	chenille
+🐜	fourmi
+🐝	abeille
+🪲	scarabee
+🐞	coccinelle
+🦗	grillon
+🪳	cafard
+🕷️	araignee
+🕸️	toile daraignee
+🦂	scorpion
+🦟	moustique
+🪰	mouche
+🪱	lombric
+🦠	microbe 2
+💐	bouquet
+🌸	fleur de cerisier
+💮	fleur blanche
+🏵️	rosette
+🌹	rose
+🥀	fleur fanee
+🌺	hibiscus
+🌻	tournesol
+🌼	bourgeon
+🌷	tulipe
+🌱	jeune pousse
+🪴	plante en pot
+🌲	sapin
+🌳	arbre feuillu
+🌴	palmier
+🌵	cactus
+🌾	plant de riz
+🌿	feuille
+☘️	trefle
+🍀	trefle a quatre feuilles
+🍁	feuille derable
+🍂	feuilles mortes
+🍃	tourbillon de feuilles
+🍇	raisin
+🍈	melon
+🍉	pasteque
+🍊	mandarine
+🍋	citron
+🍌	banane
+🍍	ananas
+🥭	mangue
+🍎	pomme rouge
+🍏	pomme verte
+🍐	poire
+🍑	peche
+🍒	cerise
+🍓	fraise
+🫐	myrtilles
+🥝	kiwi
+🍅	tomate
+🫒	olive 2
+🥥	noix de coco
+🥑	avocat
+🍆	aubergine
+🥔	pomme de terre
+🥕	carotte
+🌽	epi de mais
+🌶️	piment rouge
+🫑	poivron
+🥒	concombre
+🥬	legume feuille
+🥦	brocoli
+🧄	ail
+🧅	oignon
+🍄	champignon
+🥜	cacahuete
+🌰	chataigne
+🍞	pain
+🥐	croissant
+🥖	baguette
+🫓	galette
+🥨	bretzel
+🥯	bagel 3
+🥞	pancakes
+🧇	gaufre
+🧀	part de fromage
+🍖	os
+🍗	cuisse de poulet
+🥩	piece de viande
+🥓	bacon
+🍔	hamburger
+🍟	frites
+🍕	pizza
+🌭	hot dog
+🥪	sandwich
+🌮	taco
+🌯	burrito
+🫔	tamal
+🥙	kebab
+🧆	falafels
+🥚	oeuf
+🍳	poele a frire
+🥘	paella
+🍲	marmite
+🫕	fondue 2
+🥣	bol avec cuillere
+🥗	salade verte
+🍿	pop corn
+🧈	beurre
+🧂	sel
+🥫	conserve
+🍱	boite dejeuner
+🍘	galette de riz
+🍙	boulette de riz
+🍚	bol de riz
+🍛	riz au curry
+🍜	bol fumant
+🍝	spaghetti
+🍠	patate douce
+🍢	brochette de poisson
+🍣	sushi
+🍤	beignet de crevette
+🍥	croquette de poisson
+🥮	gateau de lune
+🍡	brochette de bonbons
+🥟	boulette
+🥠	biscuit de la fortune
+🥡	boite a emporter
+🦀	crabe
+🦞	homard
+🦐	crevette
+🦑	calamar
+🦪	huitre
+🍦	glace italienne
+🍧	granite
+🍨	glace
+🍩	doughnut
+🍪	cookie
+🎂	gateau danniversaire
+🍰	gateau sable
+🧁	cupcake petit gateau
+🥧	tarte
+🍫	barre chocolatee
+🍬	bonbon
+🍭	sucette
+🍮	creme renversee
+🍯	pot de miel
+🍼	biberon
+🥛	verre de lait
+☕	boisson chaude
+🫖	theiere
+🍵	tasse
+🍶	sake
+🍾	bouteille de champagne
+🍷	verre de vin
+🍸	cocktail
+🍹	cocktail tropical
+🍺	chope
+🍻	chopes de biere
+🥂	trinquer
+🥃	verre tumbler
+🥤	gobelet avec paille
+🧋	the aux perles
+🧃	briquette de jus
+🧉	mate
+🧊	glacon
+🥢	baguettes couverts asiatiques
+🍽️	assiette et couverts
+🍴	couteau et fourchette
+🥄	cuillere
+🔪	couteau de cuisine
+🏺	amphore
+🌍	globe europe afrique
+🌎	globe ameriques
+🌏	globe asie australie
+🌐	meridiens
+🗺️	carte du monde
+🗾	carte du japon
+🧭	boussole
+🏔️	montagne enneigee
+⛰️	montagne
+🌋	volcan
+🗻	mont fuji
+🏕️	camping
+🏖️	plage parasol
+🏜️	desert
+🏝️	ile deserte
+🏞️	parc national
+🏟️	stade
+🏛️	monument classique
+🏗️	construction dun batiment
+🧱	briques
+🪨	rocher
+🪵	bois
+🛖	hutte
+🏘️	maisons
+🏚️	maison abandonnee
+🏠	pavillon
+🏡	maison avec jardin
+🏢	bureaux
+🏣	poste japonaise
+🏤	bureau de poste
+🏥	hopital
+🏦	banque
+🏨	hotel emoji
+🏩	hotel amour
+🏪	superette
+🏫	ecole
+🏬	grand magasin
+🏭	usine
+🏯	chateau japonais
+🏰	chateau
+💒	mariage
+🗼	tour tokyo
+🗽	statue de la liberte
+⛪	eglise
+🕌	mosquee
+🛕	temple hindou
+🕍	synagogue
+⛩️	sanctuaire shinto
+🕋	kaaba
+⛲	fontaine
+⛺	tente
+🌁	brume
+🌃	nuit etoilee
+🏙️	ville
+🌄	soleil levant montagnes
+🌅	soleil levant
+🌆	ville au crepuscule
+🌇	coucher de soleil en ville
+🌉	pont nuit
+♨️	sources chaudes
+🎠	cheval de manege
+🎡	grande roue
+🎢	montagnes russes
+💈	enseigne de barbier
+🎪	chapiteau
+🚂	locomotive 2
+🚃	wagon
+🚄	tgv
+🚅	train a grande vitesse
+🚆	train
+🚇	metro
+🚈	metro leger
+🚉	gare
+🚊	tram
+🚝	monorail
+🚞	train de montagne
+🚋	wagon de tramway
+🚌	bus
+🚍	bus de face
+🚎	trolleybus
+🚐	minibus
+🚑	ambulance
+🚒	camion de pompier
+🚓	voiture de police
+🚔	voiture de police de face
+🚕	taxi
+🚖	taxi de face
+🚗	voiture
+🚘	voiture de face
+🚙	vehicule de loisirs
+🛻	pick up
+🚚	camion de livraison
+🚛	semi remorque
+🚜	tracteur
+🏎️	voiture de course
+🏍️	moto
+🛵	scooter
+🦽	fauteuil roulant manuel
+🦼	fauteuil motorise
+🛺	tuk tuk
+🚲	velo
+🛴	trottinette
+🛹	skateboard 3
+🛼	patin a roulettes
+🚏	arret de bus
+🛣️	autoroute
+🛤️	voie ferree
+🛢️	baril de petrole
+⛽	pompe a essence
+🚨	gyrophare
+🚥	feu tricolore horizontal
+🚦	feu tricolore vertical
+🛑	stop
+🚧	travaux
+⚓	ancre
+⛵	voilier
+🛶	canoe
+🚤	hors bord
+🛳️	paquebot
+⛴️	ferry
+🛥️	bateau a moteur
+🚢	navire
+✈️	avion
+🛩️	petit avion
+🛫	avion decollage
+🛬	avion atterrissage
+🪂	parachute
+💺	siege
+🚁	helicoptere
+🚟	train suspendu
+🚠	telepherique
+🚡	tramway aerien
+🛰️	satellite
+🚀	fusee
+🛸	ovni
+🛎️	cloche de comptoir
+🧳	bagage
+⌛	sablier
+⏳	sablier avec sable qui coule
+⌚	montre
+⏰	reveil
+⏱️	chronometre
+⏲️	horloge
+🕰️	horloge posee
+🕛	midiminuit
+🕧	midiminuit et demie
+🕐	une heure
+🕜	une heure et demie
+🕑	deux heures
+🕝	deux heures et demie
+🕒	trois heures
+🕞	trois heures et demie
+🕓	quatre heures
+🕟	quatre heures et demie
+🕔	cinq heures
+🕠	cinq heures et demie
+🕕	six heures
+🕡	six heures et demie
+🕖	sept heures
+🕢	sept heures et demie
+🕗	huit heures
+🕣	huit heures et demie
+🕘	neuf heures
+🕤	neuf heures et demie
+🕙	dix heures
+🕥	dix heures et demie
+🕚	onze heures
+🕦	onze heures et demie
+🌑	nouvelle lune
+🌒	lune croissante
+🌓	premier quartier
+🌔	lune gibbeuse croissante
+🌕	pleine lune
+🌖	lune gibbeuse decroissante
+🌗	dernier quartier
+🌘	lune decroissante
+🌙	croissant de lune
+🌚	nouvelle lune visage
+🌛	premier quartier de lune
+🌜	dernier quartier de lune
+🌡️	thermometre
+☀️	soleil
+🌝	lune a visage
+🌞	soleil a visage
+🪐	planete a anneaux
+⭐	etoile
+🌟	etoile brillante
+🌠	etoile filante
+🌌	voie lactee
+☁️	nuage
+⛅	soleil derriere nuages
+⛈️	nuage eclair pluie
+🌤️	soleil petit nuage
+🌥️	soleil gros nuage
+🌦️	soleil nuage pluie
+🌧️	nuage pluie
+🌨️	nuage neige
+🌩️	nuage eclair
+🌪️	tornade
+🌫️	brouillard
+🌬️	souffle
+🌀	spirale
+🌈	arc en ciel
+🌂	parapluie ferme
+☂️	parapluie ouvert
+☔	parapluie gouttes
+⛱️	parapluie au sol
+⚡	symbole haute tension
+❄️	flocon
+☃️	bonhomme de neige flocons
+⛄	bonhomme de neige
+☄️	comete
+🔥	feu
+💧	sueurs froides
+🌊	vague
+🎃	citrouille
+🎄	sapin de noel
+🎆	feu dartifice
+🎇	etincelles
+🧨	petard
+✨	etoiles
+🎈	ballon gonflable
+🎉	cotillons
+🎊	confettis
+🎋	arbre a voeux
+🎍	bambou decoratif
+🎎	poupees japonaises
+🎏	koinobori
+🎐	carillon eolien
+🎑	ceremonie de la lune
+🧧	enveloppe rouge
+🎀	ruban
+🎁	cadeau
+🎗️	ruban de memoire
+🎟️	billet dentree
+🎫	billet
+🎖️	medaille militaire
+🏆	trophee
+🏅	medaille sportive
+🥇	medaille dor
+🥈	medaille dargent
+🥉	medaille de bronze
+⚽	ballon de football
+⚾	balle de baseball
+🥎	softball 3
+🏀	basket
+🏐	volley
+🏈	football americain
+🏉	rugby
+🎾	balle de tennis
+🥏	frisbee 2
+🎳	bowling
+🏏	cricket
+🏑	hockey sur gazon
+🏒	hockey sur glace
+🥍	crosse
+🏓	ping pong
+🏸	badminton
+🥊	gant de boxe
+🥋	uniforme arts martiaux
+🥅	cage
+⛳	drapeau de golf
+⛸️	patin a glace
+🎣	peche a la ligne
+🤿	masque de plongee
+🎽	tee shirt de course
+🎿	ski
+🛷	traineau
+🥌	pierre de curling
+🎯	dans le mille
+🪀	yoyo
+🪁	cerf volant
+🎱	billard
+🔮	boule de cristal
+🪄	baguette magique
+🧿	nazar boncuk
+🎮	jeu video
+🕹️	manette de jeu
+🎰	machine a sous
+🎲	des
+🧩	puzzle 2
+🧸	ours en peluche
+🪅	pinata 2
+🪆	poupees russes
+♠️	pique
+♥️	coeur cartes
+♦️	carreau
+♣️	trefle cartes
+♟️	pion echecs
+🃏	carte joker
+🀄	dragon rouge mahjong
+🎴	carte a jouer
+🎭	spectacle vivant
+🖼️	cadre avec image
+🎨	palette de peinture
+🧵	fil a coudre
+🪡	aiguille a coudre
+🧶	fil textile
+🪢	noeud
+👓	lunettes
+🕶️	lunettes de soleil
+🥽	lunettes de protection
+🥼	blouse
+🦺	gilet de securite
+👔	cravate
+👕	t shirt
+👖	jean
+🧣	echarpe
+🧤	gants
+🧥	manteau
+🧦	chaussettes
+👗	robe
+👘	kimono
+🥻	sari
+🩱	maillot de bain une piece
+🩲	slip
+🩳	short
+👙	bikini
+👚	vetements de femme
+👛	porte monnaie
+👜	sac a main
+👝	pochette
+🛍️	sacs de shopping
+🎒	cartable
+🩴	tong
+👞	chaussure dhomme
+👟	chaussure de sport
+🥾	chaussure de marche
+🥿	ballerine 2
+👠	talon haut
+👡	sandale
+🩰	chaussons de danse
+👢	botte
+👑	couronne
+👒	chapeau de femme
+🎩	haut de forme
+🎓	diplome
+🧢	casquette
+🪖	casque militaire
+⛑️	casque croix blanche
+📿	chapelet
+💄	rouge a levres
+💍	bague
+💎	pierre precieuse
+🔇	muet
+🔈	haut parleur denceinte
+🔉	volume bas
+🔊	volume eleve
+📢	haut parleur
+📣	megaphone
+📯	cor de facteur
+🔔	cloche
+🔕	alarme desactivee
+🎼	partition
+🎵	note de musique
+🎶	notes de musique
+🎙️	micro de studio
+🎚️	curseur de niveau
+🎛️	boutons de controle
+🎤	micro
+🎧	casque
+📻	radio
+🎷	saxophone
+🪗	accordeon
+🎸	guitare
+🎹	piano
+🎺	trompette
+🎻	violon
+🪕	banjo
+🥁	batterie
+🪘	djembe
+📱	telephone portable
+📲	appel entrant
+☎️	telephone emoji
+📞	combine telephonique
+📟	pager
+📠	fax
+🔋	pile
+🔌	branche
+💻	ordinateur portable
+🖥️	ordinateur de bureau
+🖨️	imprimante
+⌨️	clavier
+🖱️	souris dordinateur
+🖲️	souris a boule
+💽	minidisc
+💾	disquette
+💿	cd
+📀	dvd
+🧮	abaque
+🎥	camera
+🎞️	pellicule
+📽️	projecteur cinematographique
+🎬	clap
+📺	television
+📷	appareil photo
+📸	appareil photo flash
+📹	camescope
+📼	cassette video
+🔍	loupe gauche
+🔎	loupe droite
+🕯️	bougie
+💡	ampoule
+🔦	torche
+🏮	lampion rouge
+🪔	diya
+📔	carnet avec couverture
+📕	livre ferme
+📖	livre ouvert
+📗	livre vert
+📘	livre bleu
+📙	livre orange
+📚	livres
+📓	carnet
+📒	classeur
+📃	page enroulee
+📜	parchemin
+📄	page
+📰	journal
+🗞️	journal roule
+📑	signets
+🔖	signet
+🏷️	etiquette
+💰	sac plein dargent
+🪙	piece
+💴	billet en yens
+💵	billet en dollars
+💶	billet en euros
+💷	billet en livres
+💸	billet avec des ailes
+💳	carte bancaire
+🧾	recu
+💹	courbe avec yen en hausse
+✉️	enveloppe
+📧	e mail
+📨	message recu
+📩	message envoye
+📤	boite denvoi
+📥	boite de reception
+📦	colis
+📫	boite aux lettres fermee drapeau leve
+📪	boite aux lettres fermee drapeau baisse
+📬	boite aux lettres ouverte drapeau leve
+📭	boite aux lettres ouverte drapeau baisse
+📮	boite aux lettres
+🗳️	urne electorale
+✏️	crayon
+✒️	stylo plume noir
+🖋️	stylo plume
+🖊️	stylo
+🖌️	pinceau
+🖍️	crayon pastel
+📝	memo
+💼	porte documents
+📁	dossier
+📂	ouvrir le dossier
+🗂️	intercalaires
+📅	calendrier
+📆	ephemeride
+🗒️	bloc notes a spirales
+🗓️	calendrier a spirales
+📇	carnet dadresses
+📈	graphique en hausse
+📉	graphique en baisse
+📊	graphiques a barres
+📋	porte bloc
+📌	punaise
+📍	epingle
+📎	trombone
+🖇️	trombones
+📏	regle
+📐	equerre
+✂️	ciseaux
+🗃️	boite a dossiers
+🗄️	meuble a dossiers
+🗑️	corbeille a papiers
+🔒	cadenas ferme
+🔓	cadenas ouvert
+🔏	confidentiel
+🔐	verrouille
+🔑	cle
+🗝️	cle ancienne
+🔨	marteau
+🪓	hache
+⛏️	pioche
+⚒️	marteau et burin
+🛠️	marteau et cle a molette
+🗡️	dague
+⚔️	epees croisees
+🔫	pistolet
+🪃	boomerang 2
+🏹	arc et fleche
+🛡️	bouclier
+🪚	scie
+🔧	cle a molette
+🪛	tournevis
+🔩	vis et ecrou
+⚙️	roue dentee
+🗜️	serre joints
+⚖️	balance a poids
+🦯	canne blanche
+🔗	mousqueton
+⛓️	chaines
+🪝	crochet
+🧰	boite a outils
+🧲	aimant permanent
+🪜	echelle
+⚗️	alambic
+🧪	tube a essai
+🧫	boite de petri
+🧬	acide desoxyribonucleique adn
+🔬	microscope
+🔭	telescope
+📡	antenne satellite
+💉	seringue
+🩸	goutte de sang
+💊	pilule
+🩹	sparadrap
+🩺	stethoscope
+🚪	porte
+🛗	ascenseur
+🪞	miroir
+🪟	fenetre
+🛏️	lit
+🛋️	canape lampe
+🪑	chaise
+🚽	toilettes
+🪠	ventouse
+🚿	douche
+🛁	baignoire
+🪤	tapette a souris
+🪒	rasoir
+🧴	bouteille de lotion
+🧷	epingle de surete
+🧹	balai
+🧺	panier 2
+🧻	rouleau de papier
+🪣	seau
+🧼	savon
+🪥	brosse a dents
+🧽	eponge
+🧯	extincteur
+🛒	panier
+🚬	signe fumeur
+⚰️	cercueil
+🪦	pierre tombale
+⚱️	urne funeraire
+🗿	moai
+🪧	pancarte
+🏧	guichet automatique
+🚮	icone poubelle
+🚰	eau potable
+♿	symbole acces handicapes
+🚹	symbole homme
+🚺	symbole femme
+🚻	panneau toilettes
+🚼	symbole bebe
+🚾	wc
+🛂	controle des passeports
+🛃	douanes
+🛄	retrait des bagages
+🛅	consigne
+⚠️	symbole davertissement
+🚸	traversee denfants
+⛔	sens interdit
+🚫	entree interdite
+🚳	velo interdit
+🚭	interdiction de fumer
+🚯	depot dordures interdit
+🚱	eau non potable
+🚷	interdit aux pietons
+📵	telephones portables interdits
+🔞	18 ans et plus
+☢️	radioactif
+☣️	danger biologique
+⬆️	fleche haut
+↗️	fleche haut droite
+➡️	fleche droite
+↘️	fleche bas droite
+⬇️	fleche bas
+↙️	fleche bas gauche
+⬅️	fleche gauche
+↖️	fleche haut gauche
+↕️	fleche haut bas
+↔️	fleche gauche droite
+↩️	fleche courbe gauche
+↪️	fleche courbe droite
+⤴️	fleche courbe haut
+⤵️	fleche courbe bas
+🔃	sens des aiguilles dune montre
+🔄	sens contraire aux aiguilles dune montre
+🔙	retour
+🔚	fin
+🔛	active
+🔜	bientot
+🔝	haut
+🛐	lieu de culte
+⚛️	symbole de latome
+🕉️	om
+✡️	etoile de david
+☸️	roue de dharma
+☯️	yin yang
+✝️	croix latine
+☦️	croix orthodoxe
+☪️	lune et etoile
+☮️	symbole de paix
+🕎	chandelier a sept branches
+🔯	etoile a 6 branches
+♈	belier zodiaque
+♉	taureau
+♊	gemeaux
+♋	cancer
+♌	lion
+♍	vierge
+♎	balance
+♏	scorpion zodiaque
+♐	sagittaire
+♑	capricorne
+♒	verseau
+♓	poissons
+⛎	serpentaire
+🔀	fleches croisees
+🔁	fleches en cercle
+🔂	fleches en cercle avec n1
+▶️	bouton lecture
+⏩	fleche avance rapide
+⏭️	bouton suivant
+⏯️	bouton lecturepause
+◀️	bouton retour
+⏪	fleche retour rapide
+⏮️	bouton precedent
+🔼	petit triangle haut
+⏫	fleche vers le haut
+🔽	petit triangle bas
+⏬	fleche vers le bas
+⏸️	bouton pause
+⏹️	bouton stop
+⏺️	bouton enregistrer
+⏏️	bouton ejecter
+🎦	cinema
+🔅	luminosite faible
+🔆	luminosite elevee
+📶	barres de reseau
+📳	mode vibreur
+📴	telephone eteint
+♀️	symbole de la femme
+♂️	symbole de lhomme
+⚧️	symbole de la communaute transgenre
+✖️	croix verte
+➕	signe plus
+➖	signe moins
+➗	signe diviser
+♾️	symbole de linfini
+‼️	double point dexclamation
+⁉️	point dexclamation et dinterrogation
+❓	point dinterrogation
+❔	point dinterrogation blanc
+❕	point dexclamation blanc
+❗	point dexclamation
+〰️	ligne ondulee
+💱	devise
+💲	dollar
+⚕️	caducee
+♻️	symbole recyclage
+⚜️	fleur de lys
+🔱	trident
+📛	badge nominatif
+🔰	symbole japonais
+⭕	gros cercle
+✅	coche blanche
+☑️	case cochee
+✔️	coche noire
+❌	croix rouge
+❎	bouton croix
+➰	boucle
+➿	double boucle
+〽️	alternance
+✳️	asterique huit branches
+✴️	etoile huit branches
+❇️	eclat
+©️	symbole copyright
+®️	marque deposee
+™️	marque commerciale deposee
+#️⃣	keycap
+*️⃣	keycap 11
+0️⃣	keycap 0
+1️⃣	keycap 1
+2️⃣	keycap 2
+3️⃣	keycap 3
+4️⃣	keycap 4
+5️⃣	keycap 5
+6️⃣	keycap 6
+7️⃣	keycap 7
+8️⃣	keycap 8
+9️⃣	keycap 9
+🔟	keycap 10
+🔠	majuscules
+🔡	minuscules
+🔢	saisie de chiffres
+🔣	saisie de symboles
+🔤	alphabet latin
+🅰️	groupe sanguin a
+🆎	groupe sanguin ab
+🅱️	groupe sanguin b
+🆑	icone effacer
+🆒	icone cool
+🆓	icone gratuit
+ℹ️	source dinformations
+🆔	icone identifiant
+Ⓜ️	m encercle
+🆕	icone nouveau
+🆖	icone interdit
+🅾️	groupe sanguin o
+🆗	icone ok
+🅿️	position parking
+🆘	icone sos
+🆙	icone nouveaute
+🆚	icone contre
+🈁	ideogramme katakana ici
+🈂️	ideogramme katakana sa
+🈷️	ideogramme lune
+🈶	ideogramme exister
+🈯	ideogramme doigt
+🉐	ideogramme avantage
+🈹	ideogramme diviser
+🈚	ideogramme negation
+🈲	ideogramme interdit
+🉑	ideogramme accepter
+🈸	ideogramme appliquer
+🈴	ideogramme ensemble
+🈳	ideogramme vide
+㊗️	ideogramme felicitations
+㊙️	ideogramme secret
+🈺	ideogramme fonctionnement
+🈵	ideogramme plenitude
+🔴	rond rouge
+🟠	disque orange
+🟡	disque jaune
+🟢	disque vert
+🔵	rond bleu
+🟣	disque violet
+🟤	disque marron
+⚫	cercle noir
+⚪	cercle blanc
+🟥	carre rouge
+🟧	carre orange
+🟨	carre jaune
+🟩	carre vert
+🟦	carre bleu
+🟪	carre violet
+🟫	carre marron
+⬛	grand carre noir
+⬜	grand carre blanc
+◼️	carre moyen noir
+◻️	carre moyen blanc
+◾	carre petit moyen noir
+◽	carre petit moyen blanc
+▪️	petit carre noir
+▫️	petit carre blanc
+🔶	grand losange orange
+🔷	grand losange bleu
+🔸	petit losange orange
+🔹	petit losange bleu
+🔺	triangle haut
+🔻	triangle bas
+💠	diamant avec un point
+🔘	bouton radio
+🔳	carre blanc
+🔲	carre noir
+🏁	drapeau a damiers
+🚩	drapeau rouge
+🎌	drapeaux japonais
+🏴	drapeau noir
+🏳️	drapeau blanc
+🏳️‍🌈	drapeau arc en ciel
+🏳️‍⚧️	drapeau transgenre
+🏴‍☠️	drapeau pirate
+🇦🇨	drapeau ile de lascension
+🇦🇩	drapeau andorre
+🇦🇪	drapeau emirats arabes unis
+🇦🇫	drapeau afghanistan
+🇦🇬	drapeau antigua et barbuda
+🇦🇮	drapeau anguilla
+🇦🇱	drapeau albanie
+🇦🇲	drapeau armenie
+🇦🇴	drapeau angola
+🇦🇶	drapeau antarctique
+🇦🇷	drapeau argentine
+🇦🇸	drapeau samoa americaines
+🇦🇹	drapeau autriche
+🇦🇺	drapeau australie
+🇦🇼	drapeau aruba
+🇦🇽	drapeau iles aland
+🇦🇿	drapeau azerbaidjan
+🇧🇦	drapeau bosnie herzegovine
+🇧🇧	drapeau barbade
+🇧🇩	drapeau bangladesh
+🇧🇪	drapeau belgique
+🇧🇫	drapeau burkina faso
+🇧🇬	drapeau bulgarie
+🇧🇭	drapeau bahrein
+🇧🇮	drapeau burundi
+🇧🇯	drapeau benin
+🇧🇱	drapeau saint barthelemy
+🇧🇲	drapeau bermudes
+🇧🇳	drapeau brunei darussalam
+🇧🇴	drapeau bolivie
+🇧🇶	drapeau pays bas caribeens
+🇧🇷	drapeau bresil
+🇧🇸	drapeau bahamas
+🇧🇹	drapeau bhoutan
+🇧🇻	drapeau ile bouvet
+🇧🇼	drapeau botswana
+🇧🇾	drapeau bielorussie
+🇧🇿	drapeau belize
+🇨🇦	drapeau canada
+🇨🇨	drapeau iles cocos
+🇨🇩	drapeau congo kinshasa
+🇨🇫	drapeau republique centrafricaine
+🇨🇬	drapeau congo brazzaville
+🇨🇭	drapeau suisse
+🇨🇮	drapeau cote divoire
+🇨🇰	drapeau iles cook
+🇨🇱	drapeau chili
+🇨🇲	drapeau cameroun
+🇨🇳	drapeau chine
+🇨🇴	drapeau colombie
+🇨🇵	drapeau ile clipperton
+🇨🇷	drapeau costa rica
+🇨🇺	drapeau cuba
+🇨🇻	drapeau cap vert
+🇨🇼	drapeau curacao
+🇨🇽	drapeau ile christmas
+🇨🇾	drapeau chypre
+🇨🇿	drapeau tchequie
+🇩🇪	drapeau allemagne
+🇩🇬	drapeau diego garcia
+🇩🇯	drapeau djibouti
+🇩🇰	drapeau danemark
+🇩🇲	drapeau dominique
+🇩🇴	drapeau republique dominicaine
+🇩🇿	drapeau algerie
+🇪🇦	drapeau ceuta et melilla
+🇪🇨	drapeau equateur
+🇪🇪	drapeau estonie
+🇪🇬	drapeau egypte
+🇪🇭	drapeau sahara occidental
+🇪🇷	drapeau erythree
+🇪🇸	drapeau espagne
+🇪🇹	drapeau ethiopie
+🇪🇺	drapeau union europeenne
+🇫🇮	drapeau finlande
+🇫🇯	drapeau fidji
+🇫🇰	drapeau iles malouines
+🇫🇲	drapeau etats federes de micronesie
+🇫🇴	drapeau iles feroe
+🇫🇷	drapeau france
+🇬🇦	drapeau gabon
+🇬🇧	drapeau royaume uni
+🇬🇩	drapeau grenade
+🇬🇪	drapeau georgie
+🇬🇫	drapeau guyane francaise
+🇬🇬	drapeau guernesey
+🇬🇭	drapeau ghana
+🇬🇮	drapeau gibraltar
+🇬🇱	drapeau groenland
+🇬🇲	drapeau gambie
+🇬🇳	drapeau guinee
+🇬🇵	drapeau guadeloupe
+🇬🇶	drapeau guinee equatoriale
+🇬🇷	drapeau grece
+🇬🇸	drapeau georgie du sud et iles sandwich du sud
+🇬🇹	drapeau guatemala
+🇬🇺	drapeau guam
+🇬🇼	drapeau guinee bissau
+🇬🇾	drapeau guyana
+🇭🇰	drapeau r a s chinoise de hong kong
+🇭🇲	drapeau iles heard et mcdonald
+🇭🇳	drapeau honduras
+🇭🇷	drapeau croatie
+🇭🇹	drapeau haiti
+🇭🇺	drapeau hongrie
+🇮🇨	drapeau iles canaries
+🇮🇩	drapeau indonesie
+🇮🇪	drapeau irlande
+🇮🇱	drapeau israel
+🇮🇲	drapeau ile de man
+🇮🇳	drapeau inde
+🇮🇴	drapeau territoire britannique de locean indien
+🇮🇶	drapeau irak
+🇮🇷	drapeau iran
+🇮🇸	drapeau islande
+🇮🇹	drapeau italie
+🇯🇪	drapeau jersey
+🇯🇲	drapeau jamaique
+🇯🇴	drapeau jordanie
+🇯🇵	drapeau japon
+🇰🇪	drapeau kenya
+🇰🇬	drapeau kirghizistan
+🇰🇭	drapeau cambodge
+🇰🇮	drapeau kiribati
+🇰🇲	drapeau comores
+🇰🇳	drapeau saint christophe et nieves
+🇰🇵	drapeau coree du nord
+🇰🇷	drapeau coree du sud
+🇰🇼	drapeau koweit
+🇰🇾	drapeau iles caimans
+🇰🇿	drapeau kazakhstan
+🇱🇦	drapeau laos
+🇱🇧	drapeau liban
+🇱🇨	drapeau sainte lucie
+🇱🇮	drapeau liechtenstein
+🇱🇰	drapeau sri lanka
+🇱🇷	drapeau liberia
+🇱🇸	drapeau lesotho
+🇱🇹	drapeau lituanie
+🇱🇺	drapeau luxembourg
+🇱🇻	drapeau lettonie
+🇱🇾	drapeau libye
+🇲🇦	drapeau maroc
+🇲🇨	drapeau monaco
+🇲🇩	drapeau moldavie
+🇲🇪	drapeau montenegro
+🇲🇫	drapeau saint martin
+🇲🇬	drapeau madagascar
+🇲🇭	drapeau iles marshall
+🇲🇰	drapeau macedoine
+🇲🇱	drapeau mali
+🇲🇲	drapeau myanmar birmanie
+🇲🇳	drapeau mongolie
+🇲🇴	drapeau r a s chinoise de macao
+🇲🇵	drapeau iles mariannes du nord
+🇲🇶	drapeau martinique
+🇲🇷	drapeau mauritanie
+🇲🇸	drapeau montserrat
+🇲🇹	drapeau malte
+🇲🇺	drapeau maurice
+🇲🇻	drapeau maldives
+🇲🇼	drapeau malawi
+🇲🇽	drapeau mexique
+🇲🇾	drapeau malaisie
+🇲🇿	drapeau mozambique
+🇳🇦	drapeau namibie
+🇳🇨	drapeau nouvelle caledonie
+🇳🇪	drapeau niger
+🇳🇫	drapeau ile norfolk
+🇳🇬	drapeau nigeria
+🇳🇮	drapeau nicaragua
+🇳🇱	drapeau pays bas
+🇳🇴	drapeau norvege
+🇳🇵	drapeau nepal
+🇳🇷	drapeau nauru
+🇳🇺	drapeau niue
+🇳🇿	drapeau nouvelle zelande
+🇴🇲	drapeau oman
+🇵🇦	drapeau panama
+🇵🇪	drapeau perou
+🇵🇫	drapeau polynesie francaise
+🇵🇬	drapeau papouasie nouvelle guinee
+🇵🇭	drapeau philippines
+🇵🇰	drapeau pakistan
+🇵🇱	drapeau pologne
+🇵🇲	drapeau saint pierre et miquelon
+🇵🇳	drapeau iles pitcairn
+🇵🇷	drapeau porto rico
+🇵🇸	drapeau territoires palestiniens
+🇵🇹	drapeau portugal
+🇵🇼	drapeau palaos
+🇵🇾	drapeau paraguay
+🇶🇦	drapeau qatar
+🇷🇪	drapeau la reunion
+🇷🇴	drapeau roumanie
+🇷🇸	drapeau serbie
+🇷🇺	drapeau russie
+🇷🇼	drapeau rwanda
+🇸🇦	drapeau arabie saoudite
+🇸🇧	drapeau iles salomon
+🇸🇨	drapeau seychelles
+🇸🇩	drapeau soudan
+🇸🇪	drapeau suede
+🇸🇬	drapeau singapour
+🇸🇭	drapeau sainte helene
+🇸🇮	drapeau slovenie
+🇸🇯	drapeau svalbard et jan mayen
+🇸🇰	drapeau slovaquie
+🇸🇱	drapeau sierra leone
+🇸🇲	drapeau saint marin
+🇸🇳	drapeau senegal
+🇸🇴	drapeau somalie
+🇸🇷	drapeau suriname
+🇸🇸	drapeau soudan du sud
+🇸🇹	drapeau sao tome et principe
+🇸🇻	drapeau el salvador
+🇸🇽	drapeau saint martin partie neerlandaise
+🇸🇾	drapeau syrie
+🇸🇿	drapeau swaziland
+🇹🇦	drapeau tristan da cunha
+🇹🇨	drapeau iles turques et caiques
+🇹🇩	drapeau tchad
+🇹🇫	drapeau terres australes francaises
+🇹🇬	drapeau togo
+🇹🇭	drapeau thailande
+🇹🇯	drapeau tadjikistan
+🇹🇰	drapeau tokelaou
+🇹🇱	drapeau timor oriental
+🇹🇲	drapeau turkmenistan
+🇹🇳	drapeau tunisie
+🇹🇴	drapeau tonga
+🇹🇷	drapeau turquie
+🇹🇹	drapeau trinite et tobago
+🇹🇻	drapeau tuvalu
+🇹🇼	drapeau taiwan
+🇹🇿	drapeau tanzanie
+🇺🇦	drapeau ukraine
+🇺🇬	drapeau ouganda
+🇺🇲	drapeau iles mineures eloignees des etats unis
+🇺🇳	drapeau united nations
+🇺🇸	drapeau etats unis
+🇺🇾	drapeau uruguay
+🇺🇿	drapeau ouzbekistan
+🇻🇦	drapeau etat de la cite du vatican
+🇻🇨	drapeau saint vincent et les grenadines
+🇻🇪	drapeau venezuela
+🇻🇬	drapeau iles vierges britanniques
+🇻🇮	drapeau iles vierges des etats unis
+🇻🇳	drapeau vietnam
+🇻🇺	drapeau vanuatu
+🇼🇫	drapeau wallis et futuna
+🇼🇸	drapeau samoa
+🇽🇰	drapeau kosovo
+🇾🇪	drapeau yemen
+🇾🇹	drapeau mayotte
+🇿🇦	drapeau afrique du sud
+🇿🇲	drapeau zambie
+🇿🇼	drapeau zimbabwe
+🏴󠁧󠁢󠁥󠁮󠁧󠁿	drapeau angleterre
+🏴󠁧󠁢󠁳󠁣󠁴󠁿	drapeau ecosse
+🏴󠁧󠁢󠁷󠁬󠁳󠁿	drapeau pays de galle

@@ -1,0 +1,2 @@
+vaderSentiment
+bs4
