@@ -1,1 +1,2 @@
 from vaderSentiment_fr.vaderSentiment import SentimentIntensityAnalyzer, SentiText
+from vaderSentiment_fr.tree import TrieNode
