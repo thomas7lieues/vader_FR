@@ -23,7 +23,7 @@ from inspect import getsourcefile
 from io import open
 from fuzzywuzzy import fuzz
 import time
-from vaderSentiment_fr.tree as tree
+import vaderSentiment_fr.tree as tree
 
 # ##Constants##
 # nombre minimum de lettres à vérifier pour fuzzywuzzy
