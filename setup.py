@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'vaderSentiment_fr',         # How you named your package folder (MyLib)
   packages = ['vaderSentiment_fr'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'French version of VADER',   # Give a short description about your library
   author = 'DEPREZ Olivier, EK Thomas',                   # Type in your name
@@ -12,8 +12,8 @@ setup(
   download_url = 'https://github.com/thomas7lieues/vader_FR/archive/v_0.1.tar.gz',    # I explain this later on
   keywords = ['Vader_FR', 'vaderSentiment', 'Vader','Sentiment','French','Analysis'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
-          'os', 're', 'math', 'string', 'codecs', 'json', 'unidecode', 'itertools', 'inspect'
-          'io', 'fuzzywuzzy', 'time'
+          'unidecode',
+          'fuzzywuzzy'
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
