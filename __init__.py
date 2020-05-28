@@ -1,0 +1,1 @@
+from vaderSentiment_fr.vaderSentiment import SentimentIntensityAnalyzer, SentiText
