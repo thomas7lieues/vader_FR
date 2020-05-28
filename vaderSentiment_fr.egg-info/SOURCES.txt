@@ -2,7 +2,6 @@ LICENSE.txt
 MANIFEST.in
 README.rst
 __init__.py
-chatting.py
 requirements.txt
 setup.cfg
 setup.py
