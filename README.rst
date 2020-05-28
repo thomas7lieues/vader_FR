@@ -12,7 +12,7 @@ VADER is a lexicon and rule-based sentiment analysis tool that is *specifically 
 ==============================
 >>>>>>> a2bbbaa7bea95f96d7384471871c7836cdedc0a2
 
-from Vader_FR.Vader.vaderSentiment_master.vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from vaderSentiment_fr.vaderSentiment import SentimentIntensityAnalyzer
 
 SIA = SentimentIntensityAnalyzer()
 
