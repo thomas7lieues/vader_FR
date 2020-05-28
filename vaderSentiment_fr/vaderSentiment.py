@@ -39,7 +39,7 @@ C_INCR = 0.733
 N_SCALAR = -0.74
 
 NEGATE = \
-    ["ne", "pas", "jamais", "plus", "rien", "aucunement",
+    ["pas", "jamais", "plus", "rien", "aucunement",
      "nullement", "sans"]
 
 # booster/dampener 'intensifiers' or 'degree adverbs'
@@ -48,7 +48,7 @@ NEGATE = \
 BOOSTER_DICT = \
     {"absolument": B_INCR, "ainsi": B_INCR, "archi": B_INCR, "beaucoup": B_INCR,
      "bigrement": B_INCR, "bougrement": B_INCR, "carrément": B_INCR, "complètement": B_INCR,
-     "considérablement": B_INCR, "davantage": B_INCR, "diablement": B_INCR, "diantrement": B_INCR,
+     "considérablement": B_INCR, "cruellement": B_INCR, "davantage": B_INCR, "diablement": B_INCR, "diantrement": B_INCR,
      "divinement": B_INCR, "drôlement": B_INCR, "délicieusement": B_INCR, "entièrement": B_INCR,
      "exceptionnel": B_INCR, "exceptionnelle": B_INCR, "exceptionnellement": B_INCR, "exceptionnelles": B_INCR,
      "exceptionnels": B_INCR, "excessivement": B_INCR, "extra": B_INCR, "extrême": B_INCR,
