@@ -28,4 +28,4 @@ print(score)
 
 
 
-# Note : You can use polarity_scores_max instead of polarity_scores. polarity_scores_max uses fuzzywuzzy to get the most similar words with your inputs. For example "connar" won't be detected with polarity_scores but with polarity_scores_max
+# Note : You can use polarity_scores_max instead of polarity_scores. polarity_scores_max uses rapidfuzz to get the most similar words with your inputs. For example "connar" won't be detected with polarity_scores but with polarity_scores_max

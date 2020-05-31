@@ -21,12 +21,12 @@ import unidecode
 from itertools import product
 from inspect import getsourcefile
 from io import open
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 import time
 import vaderSentiment_fr.tree as tree
 
 # ##Constants##
-# nombre minimum de lettres à vérifier pour fuzzywuzzy
+# nombre minimum de lettres à vérifier pour rapidfuzz
 nb_lettres_min=3
 
 
@@ -230,7 +230,7 @@ class SentimentIntensityAnalyzer(object):
         max_ratio = 0
         for word, polarity in self.lexicon.items():
             word = unidecode.unidecode(word)
-            ratio = fuzz.ratio(word, item)
+            ratio = fuzz.ratio(word, item, score_cutoff=max_ratio)
             if ratio > max_ratio:
                 max_ratio = ratio
                 max_word = word
