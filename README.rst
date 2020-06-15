@@ -16,7 +16,6 @@ pip install vaderSentiment-fr
 ==============================
 **HOW TO USE Vader-FR**
 ==============================
->>>>>>> a2bbbaa7bea95f96d7384471871c7836cdedc0a2
 
 from vaderSentiment_fr.vaderSentiment import SentimentIntensityAnalyzer
 
@@ -27,10 +26,6 @@ phrase = "Une phrase très cool à analyser"
 
 score = SIA.polarity_scores(phrase)
 
->>>>>>> a2bbbaa7bea95f96d7384471871c7836cdedc0a2
-print(score)
-
-## Output : {'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.2247}
 
 
 
