@@ -4,6 +4,7 @@ VADER-Sentiment-Analysis-FR
 
 This is a French version of VADER (Valence Aware Dictionary and Sentiment Reasoner). Please visit <https://github.com/cjhutto/vaderSentiment> to see the original version. Vader_FR possesses a manually translated french lexicon.
 VADER is a lexicon and rule-based sentiment analysis tool that is *specifically attuned to sentiments expressed in social media*. It is fully open-sourced under the `[MIT License] <http://choosealicense.com/>`_ (the original VADER sincerely appreciate all attributions and readily accept most contributions, but please don't them and us liable).
+
 7LieuesTechnologies aims to support your company, from IT to accounting, by building a virtual assistant which provides multi-technologies and multi-trade help.
 
 ==============================
