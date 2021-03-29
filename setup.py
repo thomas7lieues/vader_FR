@@ -15,7 +15,7 @@ setup(
   name = 'vaderSentiment_fr',         # How you named your package folder (MyLib)
   packages = find_packages(),   # Chose the same as "name"
   include_package_data=True,
-  version = '1.2.1',      # Start with a small number and increase it with every change you make
+  version = '1.2.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   long_description = read("README.rst"),
   long_description_content_type = 'text/x-rst',   # Give a short description about your library
