@@ -11,24 +11,29 @@ Sentiment Analysis of Social Media Text. Eighth International Conference on
 Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
 """
 import os
-
 import re
 import math
 import string
 import codecs
 import json
-import unidecode
 from itertools import product
 from inspect import getsourcefile
 from io import open
 from fuzzywuzzy import fuzz
-import time
+import logging
+import unidecode
+import sys
+sys.path.append('/')
 import vaderSentiment_fr.tree as tree
+
+logger = logging.getLogger(__name__)
 
 # ##Constants##
 # nombre minimum de lettres à vérifier pour fuzzywuzzy
 nb_lettres_min=3
 
+# Pourcentage minimal pour considérer que les mots se ressemblent
+seuil_ratio = 85
 
 # (empirically derived mean sentiment intensity rating increase for booster words)
 B_INCR = 0.293
@@ -40,7 +45,7 @@ N_SCALAR = -0.74
 
 NEGATE = \
     ["pas", "jamais", "plus", "rien", "aucunement",
-     "nullement", "sans"]
+     "nullement", "sans", "ni"]
 
 # booster/dampener 'intensifiers' or 'degree adverbs'
 # http://en.wiktionary.org/wiki/Category:English_degree_adverbs
@@ -48,7 +53,7 @@ NEGATE = \
 BOOSTER_DICT = \
     {"absolument": B_INCR, "ainsi": B_INCR, "archi": B_INCR, "beaucoup": B_INCR,
      "bigrement": B_INCR, "bougrement": B_INCR, "carrément": B_INCR, "complètement": B_INCR,
-     "considérablement": B_INCR, "cruellement": B_INCR, "davantage": B_INCR, "diablement": B_INCR, "diantrement": B_INCR,
+     "considérablement": B_INCR, "davantage": B_INCR, "diablement": B_INCR, "diantrement": B_INCR,
      "divinement": B_INCR, "drôlement": B_INCR, "délicieusement": B_INCR, "entièrement": B_INCR,
      "exceptionnel": B_INCR, "exceptionnelle": B_INCR, "exceptionnellement": B_INCR, "exceptionnelles": B_INCR,
      "exceptionnels": B_INCR, "excessivement": B_INCR, "extra": B_INCR, "extrême": B_INCR,
@@ -80,6 +85,12 @@ SPECIAL_CASES = {"the shit": 3, "the bomb": 3, "bad ass": 1.5, "badass": 1.5, "b
                  "yeah right": -2, "kiss of death": -1.5, "to die for": 3, "beating heart": 3.5}
 
 
+
+# Mot à ne pas nier
+with open("vaderSentiment_fr/no_negate.txt",'r') as f :
+    NO_NEGATE = f.read().strip().split("\n")
+
+
 # #Static methods# #
 
 def negated(input_words, include_nt=True):
@@ -108,11 +119,11 @@ def normalize(score, alpha=15):
     Normalize the score to be between -1 and 1 using an alpha that
     approximates the max expected value
     """
-    norm_score = score / math.sqrt((score * score) + alpha)
-    if norm_score < -1.0:
-        return -1.0
-    elif norm_score > 1.0:
-        return 1.0
+    norm_score = -5*score / math.sqrt((score * score) + alpha) + 5
+    if norm_score < 0.0:
+        return -0.0
+    elif norm_score > 10.0:
+        return 10.0
     else:
         return norm_score
 
@@ -152,6 +163,15 @@ def scalar_inc_dec(word, valence, is_cap_diff):
             else:
                 scalar -= C_INCR
     return scalar
+
+
+def word_is_uppercase(word):
+    characters = list(word)
+
+    for character in characters:
+        if character.islower():
+            return False
+    return True
 
 
 class SentiText(object):
@@ -212,6 +232,7 @@ class SentimentIntensityAnalyzer(object):
         self.emojis = self.make_emoji_dict()
         self.treenode = self.make_tree()
 
+
     def make_tree(self):
         words = list(self.lexicon.keys())
         treenode= tree.TrieNode("*")
@@ -221,25 +242,24 @@ class SentimentIntensityAnalyzer(object):
         return treenode
 
     def get_max_words(self, item):
-        seuil_ratio = 85
-
+        # On vérifie que le nombre de lettres minimum est atteint, sinon on retourne None
         if len(item)<=nb_lettres_min:
             return None
+
+        # On retire les accetns
         item = unidecode.unidecode(item)
         max_word = ""
         max_ratio = 0
+
+        # On parcourt le lexicon pour trouver le mot le plus similaire
         for word, polarity in self.lexicon.items():
             word = unidecode.unidecode(word)
             ratio = fuzz.ratio(word, item)
             if ratio > max_ratio:
                 max_ratio = ratio
                 max_word = word
-        print(item + " --> " + max_word +
-              "\nFuzzy Ratio : " + str(max_ratio))
         if max_ratio >= seuil_ratio:
             return max_word
-
-        print("Pas pris en compte car < " + str(seuil_ratio))
         return None
 
     def make_lex_dict(self):
@@ -250,8 +270,8 @@ class SentimentIntensityAnalyzer(object):
         for line in self.lexicon_full_filepath.rstrip('\n').split('\n'):
             if not line:
                 continue
-            (word, measure) = line.strip().split('\t')[0:2]
-            lex_dict[unidecode.unidecode(word)] = float(measure)
+            (word, measure) = line.strip().split('->')[0:2]
+            lex_dict[unidecode.unidecode(word)] = float(measure) # On utilise unidecode pour supprimer les accents
         return lex_dict
 
     def make_emoji_dict(self):
@@ -304,9 +324,14 @@ class SentimentIntensityAnalyzer(object):
             sentiments = self.sentiment_valence(
                 valence, sentitext, item, i, sentiments)
 
-        sentiments = self._but_check(words_and_emoticons, sentiments)
+        # sentiments = self._but_check(words_and_emoticons, sentiments)
 
         valence_dict = self.score_valence(sentiments, text)
+        # Création du dictionnaire pour obtenir à chaque mot la valeur attribuée
+        details = {}
+        for i in range(len(sentiments)):
+            details[words_and_emoticons[i]]=sentiments[i]
+        valence_dict["details"] = details
 
         return valence_dict
 
@@ -335,28 +360,38 @@ class SentimentIntensityAnalyzer(object):
         sentitext = SentiText(text)
 
         sentiments = []
+        detected_words = [] # Mot détecté (utile si fuzzywuzzé)
         words_and_emoticons = sentitext.words_and_emoticons
-        t0 = time.time()
         for i, item in enumerate(words_and_emoticons):
             valence = 0
             # check for vader_lexicon words that may be used as modifiers or negations
             if item.lower() in BOOSTER_DICT:
                 sentiments.append(valence)
+                detected_words.append(item)
                 continue
             if (i < len(words_and_emoticons) - 1 and item.lower() == "kind" and
                     words_and_emoticons[i + 1].lower() == "of"):
                 sentiments.append(valence)
+                detected_words.append(item)
                 continue
 
-            sentiments = self.sentiment_valence_max(
-                valence, sentitext, item, i, sentiments)
-        t1 = time.time()
-        print("Processing time : " + str(t1-t0))
+            sentiments, detected_words = self.sentiment_valence_max(
+                valence, sentitext, item, i, sentiments, detected_words)
+
         sentiments = self._but_check(words_and_emoticons, sentiments)
 
         valence_dict = self.score_valence(sentiments, text)
+        details = {}
+        for i in range(len(sentiments)):
+            if detected_words[i] is not None :
+                details[words_and_emoticons[i]+"/"+str(detected_words[i])]=sentiments[i]
+            else :
+                details[words_and_emoticons[i]]=sentiments[i]
+        valence_dict["details"] = details
 
         return valence_dict
+
+
 
     def sentiment_valence(self, valence, sentitext, item, i, sentiments):
         is_cap_diff = sentitext.is_cap_diff
@@ -404,7 +439,7 @@ class SentimentIntensityAnalyzer(object):
         sentiments.append(valence)
         return sentiments
 
-    def sentiment_valence_max(self, valence, sentitext, item, i, sentiments):
+    def sentiment_valence_max(self, valence, sentitext, item, i, sentiments, detected_words):
         is_cap_diff = sentitext.is_cap_diff
         words_and_emoticons = sentitext.words_and_emoticons
         item_lowercase = unidecode.unidecode(item.lower())
@@ -416,12 +451,12 @@ class SentimentIntensityAnalyzer(object):
             valence = self.lexicon[item_lowercase]
 
             # check for "no" as negation for an adjacent lexicon item vs "no" as its own stand-alone lexicon item
-            if item_lowercase == "no" and i != len(words_and_emoticons)-1 and words_and_emoticons[i + 1].lower() in self.lexicon:
+            if item_lowercase == "pas" and i != len(words_and_emoticons)-1 and words_and_emoticons[i + 1].lower() in self.lexicon:
                     # don't use valence of "no" as a lexicon item. Instead set it's valence to 0.0 and negate the next item
                 valence = 0.0
             if (i > 0 and words_and_emoticons[i - 1].lower() == "no") \
                or (i > 1 and words_and_emoticons[i - 2].lower() == "no") \
-               or (i > 2 and words_and_emoticons[i - 3].lower() == "no" and words_and_emoticons[i - 1].lower() in ["or", "nor"]):
+               or (i > 2 and words_and_emoticons[i - 3].lower() == "no" and words_and_emoticons[i - 1].lower() in ["pzpzp", "nor"]):
                 valence = self.lexicon[item_lowercase] * N_SCALAR
 
             # check if sentiment laden word is in ALL CAPS (while others aren't)
@@ -451,7 +486,8 @@ class SentimentIntensityAnalyzer(object):
 
             valence = self._least_check(valence, words_and_emoticons, i)
         sentiments.append(valence)
-        return sentiments
+        detected_words.append(item_lowercase)
+        return sentiments, detected_words
 
     def _least_check(self, valence, words_and_emoticons, i):
         # check for negation case using "least"
@@ -469,8 +505,8 @@ class SentimentIntensityAnalyzer(object):
         # check for modification in sentiment due to contrastive conjunction 'but'
         words_and_emoticons_lower = [str(w).lower()
                                      for w in words_and_emoticons]
-        if 'but' in words_and_emoticons_lower:
-            bi = words_and_emoticons_lower.index('but')
+        if 'mais' in words_and_emoticons_lower:
+            bi = words_and_emoticons_lower.index('mais')
             for sentiment in sentiments:
                 si = sentiments.index(sentiment)
                 if si < bi:
@@ -543,31 +579,24 @@ class SentimentIntensityAnalyzer(object):
     def _negation_check(valence, words_and_emoticons, start_i, i):
         words_and_emoticons_lower = [str(w).lower()
                                      for w in words_and_emoticons]
+
+        no_check = [unidecode.unidecode(elem) for elem in NO_NEGATE]
+
+        # Si le mot n'est pas à nier
+        if words_and_emoticons_lower[i] in no_check:
+            return valence
+
+        # Si le mot peut être nié
         if start_i == 0:
             # 1 word preceding lexicon word (w/o stopwords)
             if negated([words_and_emoticons_lower[i - (start_i + 1)]]):
                 valence = valence * N_SCALAR
         if start_i == 1:
-            if words_and_emoticons_lower[i - 2] == "never" and \
-                    (words_and_emoticons_lower[i - 1] == "so" or
-                     words_and_emoticons_lower[i - 1] == "this"):
-                valence = valence * 1.25
-            elif words_and_emoticons_lower[i - 2] == "without" and \
-                    words_and_emoticons_lower[i - 1] == "doubt":
-                valence = valence
             # 2 words preceding the lexicon word position
-            elif negated([words_and_emoticons_lower[i - (start_i + 1)]]):
+            if negated([words_and_emoticons_lower[i - (start_i + 1)]]):
                 valence = valence * N_SCALAR
         if start_i == 2:
-            if words_and_emoticons_lower[i - 3] == "never" and \
-                    (words_and_emoticons_lower[i - 2] == "so" or words_and_emoticons_lower[i - 2] == "this") or \
-                    (words_and_emoticons_lower[i - 1] == "so" or words_and_emoticons_lower[i - 1] == "this"):
-                valence = valence * 1.25
-            elif words_and_emoticons_lower[i - 3] == "without" and \
-                    (words_and_emoticons_lower[i - 2] == "doubt" or words_and_emoticons_lower[i - 1] == "doubt"):
-                valence = valence
-            # 3 words preceding the lexicon word position
-            elif negated([words_and_emoticons_lower[i - (start_i + 1)]]):
+            if negated([words_and_emoticons_lower[i - (start_i + 1)]]):
                 valence = valence * N_SCALAR
         return valence
 
@@ -575,8 +604,62 @@ class SentimentIntensityAnalyzer(object):
         # add emphasis from exclamation points and question marks
         ep_amplifier = self._amplify_ep(text)
         qm_amplifier = self._amplify_qm(text)
-        punct_emph_amplifier = ep_amplifier + qm_amplifier
+        sp_amplifier = self._amplify_sp(text)
+
+        punct_emph_amplifier = ep_amplifier + qm_amplifier + sp_amplifier
+
         return punct_emph_amplifier
+
+    @staticmethod
+    def _amplify_uc(text_):
+        text = text_
+
+        # On supprime les ponctuations
+        ponctuations = ["?", "!", ".", ",", ";"]
+        for ponctuation in ponctuations:
+            text = text.replace(ponctuation, "")
+
+        # Découpage par mots
+        liste = text.split(" ")
+        words = liste.copy()
+
+        # On supprime les mots que d'une lettre
+        words = [word for word in words if len(word) > 1]
+
+        # On supprime les premières lettres
+        for i in range(len(words)):
+            words[i] = words[i][1:len(words[i])]
+
+        uc_count = 0
+        for word in words:
+            if word_is_uppercase(word):
+                if uc_count > 4:
+                    break
+                uc_count += 1
+        uc_amplifier = uc_count * 0.292
+        return uc_amplifier
+
+    @staticmethod
+    def _amplify_sp(text):
+        sp_coeff = 0.21
+
+        # Va recenser tous les points de suspensions
+        # ["...","..","....", ".""] par exemple
+        reg_ = re.compile("\.{2,}")
+        points = reg_.findall(text)
+
+        # un string qui regroupe tous les points de suspension
+        # ["...", ".."] -> "....."
+        s = "".join(points)
+        sp_count = len(s)
+        if sp_count in [1, 0]:
+            return 0.0
+        if sp_count in [2, 3]:
+            return 0.21
+        if sp_count <= 6:
+            return (sp_count-2)*sp_coeff
+        sp_count = 6
+        return (sp_count-2)*sp_coeff
 
     @staticmethod
     def _amplify_ep(text):
@@ -586,6 +669,7 @@ class SentimentIntensityAnalyzer(object):
             ep_count = 4
         # (empirically derived mean sentiment intensity rating increase for
         # exclamation points)
+            # Intensité du point d'exclamation
         ep_amplifier = ep_count * 0.292
         return ep_amplifier
 
@@ -598,6 +682,7 @@ class SentimentIntensityAnalyzer(object):
             if qm_count <= 3:
                 # (empirically derived mean sentiment intensity rating increase for
                 # question marks)
+                                # Intensité du point d'interrogation
                 qm_amplifier = qm_count * 0.18
             else:
                 qm_amplifier = 0.96
@@ -625,10 +710,18 @@ class SentimentIntensityAnalyzer(object):
             sum_s = float(sum(sentiments))
             # compute and add emphasis from punctuation in text
             punct_emph_amplifier = self._punctuation_emphasis(text)
+            uc_amplifier = self._amplify_uc(text)
+
             if sum_s > 0:
                 sum_s += punct_emph_amplifier
+                if sum_s >= 0.05:
+                    sum_s += uc_amplifier
             elif sum_s < 0:
                 sum_s -= punct_emph_amplifier
+                if sum_s <= -0.05:
+                    sum_s -= uc_amplifier
+            else:
+                sum_s -= 0.5 * punct_emph_amplifier
 
             compound = normalize(sum_s)
             # discriminate between positive, negative and neutral sentiment scores
