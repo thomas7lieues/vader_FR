@@ -31,6 +31,10 @@ score = SIA.polarity_scores(phrase)
 
 # Note : You can use polarity_scores_max instead of polarity_scores. polarity_scores_max uses fuzzywuzzy to get the most similar words with your inputs. For example "connar" won't be detected with polarity_scores but with polarity_scores_max
 
+
+==============================
+**Notice**
+==============================
 From the 1.2.1 version, compound is a float between 0 and 10. 
 
 - When compound is close to 0, the sentence is positive
