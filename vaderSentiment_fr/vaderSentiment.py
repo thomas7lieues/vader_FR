@@ -86,9 +86,6 @@ SPECIAL_CASES = {"the shit": 3, "the bomb": 3, "bad ass": 1.5, "badass": 1.5, "b
 
 
 
-# Mot à ne pas nier
-with open("vaderSentiment_fr/no_negate.txt",'r') as f :
-    NO_NEGATE = f.read().strip().split("\n")
 
 
 # #Static methods# #
@@ -231,6 +228,14 @@ class SentimentIntensityAnalyzer(object):
             self.emoji_full_filepath = f.read()
         self.emojis = self.make_emoji_dict()
         self.treenode = self.make_tree()
+
+        # Mots à ne pas nier
+        no_negate_full_filepath = os.path.join(
+            os.path.dirname(_this_module_file_path_), "no_negate.txt")
+
+        with codecs.open(no_negate_full_filepath,'r') as f :
+            NO_NEGATE = f.read().strip().split("\n")
+        self.no_negate = NO_NEGATE
 
 
     def make_tree(self):
@@ -576,7 +581,7 @@ class SentimentIntensityAnalyzer(object):
         words_and_emoticons_lower = [str(w).lower()
                                      for w in words_and_emoticons]
 
-        no_check = [unidecode.unidecode(elem) for elem in NO_NEGATE]
+        no_check = [unidecode.unidecode(elem) for elem in self.no_negate]
 
         # Si le mot n'est pas à nier
         if words_and_emoticons_lower[i] in no_check:
