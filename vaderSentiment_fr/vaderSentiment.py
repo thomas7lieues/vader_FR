@@ -235,7 +235,6 @@ class SentimentIntensityAnalyzer(object):
 
         with codecs.open(no_negate_full_filepath,'r') as f :
             NO_NEGATE = f.read().strip().split("\n")
-        self.no_negate = NO_NEGATE
 
 
     def make_tree(self):
@@ -581,7 +580,7 @@ class SentimentIntensityAnalyzer(object):
         words_and_emoticons_lower = [str(w).lower()
                                      for w in words_and_emoticons]
 
-        no_check = [unidecode.unidecode(elem) for elem in self.no_negate]
+        no_check = [unidecode.unidecode(elem) for elem in NO_NEGATE]
 
         # Si le mot n'est pas à nier
         if words_and_emoticons_lower[i] in no_check:
