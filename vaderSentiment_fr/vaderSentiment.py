@@ -113,19 +113,19 @@ def negated(input_words, include_nt=True):
             return True'''
     return False
 
-
 def normalize(score, alpha=15):
     """
     Normalize the score to be between -1 and 1 using an alpha that
     approximates the max expected value
     """
-    norm_score = -5*score / math.sqrt((score * score) + alpha) + 5
-    if norm_score < 0.0:
-        return -0.0
-    elif norm_score > 10.0:
-        return 10.0
+    norm_score = score / math.sqrt((score * score) + alpha)
+    if norm_score < -1.0:
+        return -1.0
+    elif norm_score > 1.0:
+        return 1.0
     else:
         return norm_score
+
 
 
 def allcap_differential(words):
@@ -328,10 +328,6 @@ class SentimentIntensityAnalyzer(object):
 
         valence_dict = self.score_valence(sentiments, text)
         # Création du dictionnaire pour obtenir à chaque mot la valeur attribuée
-        details = {}
-        for i in range(len(sentiments)):
-            details[words_and_emoticons[i]]=sentiments[i]
-        valence_dict["details"] = details
 
         return valence_dict
 
